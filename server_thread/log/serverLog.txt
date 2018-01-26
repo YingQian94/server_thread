@@ -1,0 +1,1600 @@
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:0.0.0.0:45390
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:17829
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:17829
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:18341
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:18341
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:18853
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:18853
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:18853
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:18853
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:19877
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:19877
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:19877
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:19877
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:19877
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:19877
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:19877
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:19877
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:19877
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:19877
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:19877
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:19877
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:22949
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:22949
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:23461
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:23461
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:23461
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:23461
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:24485
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:24485
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:24485
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:36261
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:36261
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:36773
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:36773
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:37285
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:37285
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:37285
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:37285
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:37285
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:37285
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:37285
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:37285
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:39333
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:39333
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:39333
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:39333
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:39333
+TIME:Fri Jan 12 17:10:14 2018
+[SUCCESS]add a new client:139.199.230.43:39333
+TIME:Fri Jan 12 17:10:15 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:10:15 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:10:15 2018
+[SUCCESS]./tmpImg/0.0.0.008timg2.jpg
+TIME:Fri Jan 12 17:10:15 2018
+[SUCCESS]add a new client:139.199.230.43:39333
+TIME:Fri Jan 12 17:10:15 2018
+[SUCCESS]add a new client:139.199.230.43:24997
+TIME:Fri Jan 12 17:10:15 2018
+[SUCCESS]add a new client:139.199.230.43:25509
+TIME:Fri Jan 12 17:10:15 2018
+[SUCCESS]add a new client:139.199.230.43:25765
+TIME:Fri Jan 12 17:10:15 2018
+[SUCCESS]add a new client:139.199.230.43:26021
+TIME:Fri Jan 12 17:10:15 2018
+[SUCCESS]add a new client:139.199.230.43:26277
+TIME:Fri Jan 12 17:10:15 2018
+[SUCCESS]add a new client:139.199.230.43:26533
+TIME:Fri Jan 12 17:10:15 2018
+[SUCCESS]add a new client:139.199.230.43:26533
+TIME:Fri Jan 12 17:10:15 2018
+[SUCCESS]add a new client:139.199.230.43:26533
+TIME:Fri Jan 12 17:10:15 2018
+[SUCCESS]add a new client:139.199.230.43:26533
+TIME:Fri Jan 12 17:10:15 2018
+[SUCCESS]add a new client:139.199.230.43:26533
+TIME:Fri Jan 12 17:10:15 2018
+[SUCCESS]add a new client:139.199.230.43:26533
+TIME:Fri Jan 12 17:10:15 2018
+[SUCCESS]add a new client:139.199.230.43:40357
+TIME:Fri Jan 12 17:10:15 2018
+[SUCCESS]add a new client:139.199.230.43:40613
+TIME:Fri Jan 12 17:10:15 2018
+[SUCCESS]add a new client:139.199.230.43:40869
+TIME:Fri Jan 12 17:10:15 2018
+[SUCCESS]add a new client:139.199.230.43:40869
+TIME:Fri Jan 12 17:10:15 2018
+[SUCCESS]add a new client:139.199.230.43:41893
+TIME:Fri Jan 12 17:10:15 2018
+[SUCCESS]add a new client:139.199.230.43:41893
+TIME:Fri Jan 12 17:10:15 2018
+[SUCCESS]add a new client:139.199.230.43:41893
+TIME:Fri Jan 12 17:10:15 2018
+[SUCCESS]add a new client:139.199.230.43:42917
+TIME:Fri Jan 12 17:10:16 2018
+[SUCCESS]add a new client:139.199.230.43:42917
+TIME:Fri Jan 12 17:10:16 2018
+[SUCCESS]add a new client:139.199.230.43:29861
+TIME:Fri Jan 12 17:10:16 2018
+[SUCCESS]add a new client:139.199.230.43:33445
+TIME:Fri Jan 12 17:10:16 2018
+[SUCCESS]add a new client:139.199.230.43:33445
+TIME:Fri Jan 12 17:10:16 2018
+[SUCCESS]add a new client:139.199.230.43:33701
+TIME:Fri Jan 12 17:10:17 2018
+[SUCCESS]add a new client:139.199.230.43:33701
+TIME:Fri Jan 12 17:10:17 2018
+[SUCCESS]add a new client:139.199.230.43:26789
+TIME:Fri Jan 12 17:10:17 2018
+[SUCCESS]add a new client:139.199.230.43:31141
+TIME:Fri Jan 12 17:10:17 2018
+[SUCCESS]add a new client:139.199.230.43:28581
+TIME:Fri Jan 12 17:10:17 2018
+[SUCCESS]add a new client:139.199.230.43:30885
+TIME:Fri Jan 12 17:10:17 2018
+[SUCCESS]add a new client:139.199.230.43:29605
+TIME:Fri Jan 12 17:10:17 2018
+[SUCCESS]add a new client:139.199.230.43:30629
+TIME:Fri Jan 12 17:10:17 2018
+[SUCCESS]add a new client:139.199.230.43:27557
+TIME:Fri Jan 12 17:10:17 2018
+[SUCCESS]add a new client:139.199.230.43:27557
+TIME:Fri Jan 12 17:10:17 2018
+[SUCCESS]add a new client:139.199.230.43:34213
+TIME:Fri Jan 12 17:10:17 2018
+[SUCCESS]add a new client:139.199.230.43:34981
+TIME:Fri Jan 12 17:10:17 2018
+[SUCCESS]add a new client:139.199.230.43:29093
+TIME:Fri Jan 12 17:10:17 2018
+[SUCCESS]add a new client:139.199.230.43:31397
+TIME:Fri Jan 12 17:10:17 2018
+[SUCCESS]add a new client:139.199.230.43:28837
+TIME:Fri Jan 12 17:10:17 2018
+[SUCCESS]add a new client:139.199.230.43:29349
+TIME:Fri Jan 12 17:10:17 2018
+[SUCCESS]add a new client:139.199.230.43:27813
+TIME:Fri Jan 12 17:10:17 2018
+[SUCCESS]add a new client:139.199.230.43:27813
+TIME:Fri Jan 12 17:10:17 2018
+[SUCCESS]add a new client:139.199.230.43:34469
+TIME:Fri Jan 12 17:10:17 2018
+[SUCCESS]add a new client:139.199.230.43:28325
+TIME:Fri Jan 12 17:10:17 2018
+[SUCCESS]add a new client:139.199.230.43:28069
+TIME:Fri Jan 12 17:10:17 2018
+[SUCCESS]add a new client:139.199.230.43:28069
+TIME:Fri Jan 12 17:10:17 2018
+[SUCCESS]add a new client:139.199.230.43:28069
+TIME:Fri Jan 12 17:10:17 2018
+[SUCCESS]add a new client:139.199.230.43:32421
+TIME:Fri Jan 12 17:10:17 2018
+[SUCCESS]add a new client:139.199.230.43:32677
+TIME:Fri Jan 12 17:10:17 2018
+[SUCCESS]add a new client:139.199.230.43:32933
+TIME:Fri Jan 12 17:10:17 2018
+[SUCCESS]add a new client:139.199.230.43:32933
+TIME:Fri Jan 12 17:10:17 2018
+[SUCCESS]add a new client:139.199.230.43:32933
+TIME:Fri Jan 12 17:10:26 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:10:26 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:10:26 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:10:26 2018
+[SUCCESS]./tmpImg/0.0.0.0010timg2.jpg
+TIME:Fri Jan 12 17:10:27 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:10:27 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:10:27 2018
+[SUCCESS]./tmpImg/0.0.0.008timg2_mainColor.jpg
+TIME:Fri Jan 12 17:10:30 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:10:30 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:10:30 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:10:30 2018
+[SUCCESS]./tmpImg/0.0.0.0032timg2.jpg
+TIME:Fri Jan 12 17:10:30 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:10:30 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:10:30 2018
+[SUCCESS]./tmpImg/0.0.0.0010timg2_mainColor.jpg
+TIME:Fri Jan 12 17:10:36 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:10:36 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:10:36 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:10:36 2018
+[SUCCESS]./tmpImg/0.0.0.0012timg2.jpg
+TIME:Fri Jan 12 17:10:36 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:10:36 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:10:36 2018
+[SUCCESS]./tmpImg/0.0.0.0032timg2_mainColor.jpg
+TIME:Fri Jan 12 17:11:59 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:11:59 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:11:59 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:11:59 2018
+[SUCCESS]./tmpImg/0.0.0.0026timg2.jpg
+TIME:Fri Jan 12 17:11:59 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:11:59 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:11:59 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:11:59 2018
+[SUCCESS]./tmpImg/0.0.0.0016timg2.jpg
+TIME:Fri Jan 12 17:11:59 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:11:59 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:11:59 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:11:59 2018
+[SUCCESS]./tmpImg/0.0.0.0018timg2.jpg
+TIME:Fri Jan 12 17:11:59 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:11:59 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:11:59 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:11:59 2018
+[SUCCESS]./tmpImg/0.0.0.006timg2.jpg
+TIME:Fri Jan 12 17:11:59 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:11:59 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:11:59 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:11:59 2018
+[SUCCESS]./tmpImg/0.0.0.0022timg2.jpg
+TIME:Fri Jan 12 17:11:59 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:11:59 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:11:59 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:11:59 2018
+[SUCCESS]./tmpImg/0.0.0.0020timg2.jpg
+TIME:Fri Jan 12 17:11:59 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:11:59 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:11:59 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:11:59 2018
+[SUCCESS]./tmpImg/0.0.0.0024timg2.jpg
+TIME:Fri Jan 12 17:12:00 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:00 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:00 2018
+[SUCCESS]./tmpImg/0.0.0.0012timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:00 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:01 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:01 2018
+[SUCCESS]./tmpImg/0.0.0.0026timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:01 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:01 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:01 2018
+[SUCCESS]./tmpImg/0.0.0.0016timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:01 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]./tmpImg/0.0.0.0018timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]./tmpImg/0.0.0.006timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]./tmpImg/0.0.0.0030timg2.jpg
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]./tmpImg/0.0.0.0422409timg4.jpg
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]./tmpImg/0.0.0.04224011timg4.jpg
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]./tmpImg/0.0.0.04224013timg4.jpg
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]./tmpImg/0.0.0.04224034timg2.jpg
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]./tmpImg/0.0.0.04224041timg2.jpg
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]./tmpImg/0.0.0.04224047timg2.jpg
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]./tmpImg/0.0.0.04224051timg2.jpg
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]./tmpImg/0.0.0.04224043timg2.jpg
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]./tmpImg/0.0.0.04224053timg2.jpg
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]./tmpImg/0.0.0.04224037timg2.jpg
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]./tmpImg/0.0.0.04224045timg2.jpg
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]./tmpImg/0.0.0.04224035timg2.jpg
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]./tmpImg/0.0.0.04224014timg2.jpg
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]./tmpImg/0.0.0.04224028timg2.jpg
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]./tmpImg/0.0.0.04224039timg2.jpg
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]./tmpImg/0.0.0.04224049timg2.jpg
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]./tmpImg/0.0.0.04224055timg2.jpg
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]./tmpImg/0.0.0.04224060timg2.jpg
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]./tmpImg/0.0.0.04224063timg2.jpg
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:02 2018
+[SUCCESS]./tmpImg/0.0.0.04224064timg4.jpg
+TIME:Fri Jan 12 17:12:03 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:03 2018
+[SUCCESS]./tmpImg/0.0.0.0022timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:03 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:03 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:03 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:03 2018
+[SUCCESS]./tmpImg/0.0.0.0020timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:03 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:04 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:04 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:04 2018
+[SUCCESS]./tmpImg/0.0.0.0024timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:04 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:04 2018
+[SUCCESS]./tmpImg/0.0.0.0030timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:04 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:05 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:05 2018
+[SUCCESS]./tmpImg/0.0.0.0422409timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:05 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:05 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:05 2018
+[SUCCESS]./tmpImg/0.0.0.04224011timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:05 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:06 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:06 2018
+[SUCCESS]./tmpImg/0.0.0.04224034timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:06 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:06 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:06 2018
+[SUCCESS]./tmpImg/0.0.0.04224013timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:06 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:06 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:06 2018
+[SUCCESS]./tmpImg/0.0.0.04224041timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:06 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:07 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:07 2018
+[SUCCESS]./tmpImg/0.0.0.04224047timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:07 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:07 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:07 2018
+[SUCCESS]./tmpImg/0.0.0.04224051timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:07 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:08 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:08 2018
+[SUCCESS]./tmpImg/0.0.0.04224043timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:08 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:08 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:08 2018
+[SUCCESS]./tmpImg/0.0.0.04224053timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:08 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:08 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:08 2018
+[SUCCESS]./tmpImg/0.0.0.04224037timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:08 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:08 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:08 2018
+[SUCCESS]./tmpImg/0.0.0.04224045timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:08 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:09 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:09 2018
+[SUCCESS]./tmpImg/0.0.0.04224035timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:09 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:09 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:09 2018
+[SUCCESS]./tmpImg/0.0.0.04224014timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:09 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224028timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224065timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224066timg2.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224068timg2.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224070timg2.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224073timg2.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224075timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224076timg2.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224077timg2.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224080timg2.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224081timg2.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224084timg2.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224083timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224085timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224087timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224019timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224091timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224092timg2.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224095timg2.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224061timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224058timg2.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224039timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.042240102timg2.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.042240104timg2.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224017timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224069timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224036timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224031timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224062timg2.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224042timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.0422407timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224029timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.042240103timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224040timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224052timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224033timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224023timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224050timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224056timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224071timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224027timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224015timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224038timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224044timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224048timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224046timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.042240105timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224021timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224090timg2.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224072timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224057timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.042240101timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224089timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224074timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224086timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224079timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224067timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224078timg2.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224093timg2.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.042240106timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224099timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224098timg2.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224059timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.042240100timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224096timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224082timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224094timg2.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224088timg2.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:3
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224025timg4.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224097timg2.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224049timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]./tmpImg/0.0.0.04224055timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:10 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:11 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:11 2018
+[SUCCESS]./tmpImg/0.0.0.04224060timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:11 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:11 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:11 2018
+[SUCCESS]./tmpImg/0.0.0.04224063timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:11 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:11 2018
+[SUCCESS]success got image
+TIME:Fri Jan 12 17:12:12 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:12 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:12 2018
+[SUCCESS]./tmpImg/0.0.0.04224064timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:12 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:12 2018
+[SUCCESS]./tmpImg/0.0.0.04224065timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:12 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:12 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:12 2018
+[SUCCESS]./tmpImg/0.0.0.04224066timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:12 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:12 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:12 2018
+[SUCCESS]./tmpImg/0.0.0.04224068timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:12 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:13 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:13 2018
+[SUCCESS]./tmpImg/0.0.0.04224070timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:13 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:13 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:13 2018
+[SUCCESS]./tmpImg/0.0.0.04224073timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:13 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:13 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:13 2018
+[SUCCESS]./tmpImg/0.0.0.04224076timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:13 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:13 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:13 2018
+[SUCCESS]./tmpImg/0.0.0.04224075timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:13 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:13 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:13 2018
+[SUCCESS]./tmpImg/0.0.0.04224077timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:13 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:13 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:13 2018
+[SUCCESS]./tmpImg/0.0.0.04224080timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:13 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:13 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:13 2018
+[SUCCESS]./tmpImg/0.0.0.04224081timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:13 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:13 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:13 2018
+[SUCCESS]./tmpImg/0.0.0.04224084timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:13 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:14 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:14 2018
+[SUCCESS]./tmpImg/0.0.0.04224083timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:14 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:14 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:14 2018
+[SUCCESS]./tmpImg/0.0.0.04224085timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:14 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:14 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:14 2018
+[SUCCESS]./tmpImg/0.0.0.04224087timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:14 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:14 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:14 2018
+[SUCCESS]./tmpImg/0.0.0.04224019timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:14 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:14 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:14 2018
+[SUCCESS]./tmpImg/0.0.0.04224092timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:14 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:14 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:14 2018
+[SUCCESS]./tmpImg/0.0.0.04224091timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:14 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:14 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:14 2018
+[SUCCESS]./tmpImg/0.0.0.04224095timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:14 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:15 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:15 2018
+[SUCCESS]./tmpImg/0.0.0.04224061timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:15 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:15 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:15 2018
+[SUCCESS]./tmpImg/0.0.0.04224058timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:15 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:15 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:15 2018
+[SUCCESS]./tmpImg/0.0.0.042240102timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:15 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:15 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:15 2018
+[SUCCESS]./tmpImg/0.0.0.042240104timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:15 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:15 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:15 2018
+[SUCCESS]./tmpImg/0.0.0.04224017timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:15 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:15 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:15 2018
+[SUCCESS]./tmpImg/0.0.0.04224069timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:15 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:16 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:16 2018
+[SUCCESS]./tmpImg/0.0.0.04224036timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:16 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:16 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:16 2018
+[SUCCESS]./tmpImg/0.0.0.04224031timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:16 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:16 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:16 2018
+[SUCCESS]./tmpImg/0.0.0.04224062timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:16 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:16 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:16 2018
+[SUCCESS]./tmpImg/0.0.0.04224042timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:16 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:16 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:16 2018
+[SUCCESS]./tmpImg/0.0.0.0422407timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:16 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:17 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:17 2018
+[SUCCESS]./tmpImg/0.0.0.04224029timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:17 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:17 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:17 2018
+[SUCCESS]./tmpImg/0.0.0.042240103timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:17 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:17 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:17 2018
+[SUCCESS]./tmpImg/0.0.0.04224040timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:17 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:18 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:18 2018
+[SUCCESS]./tmpImg/0.0.0.04224052timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:18 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:18 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:18 2018
+[SUCCESS]./tmpImg/0.0.0.04224033timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:18 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:18 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:18 2018
+[SUCCESS]./tmpImg/0.0.0.04224023timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:18 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:19 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:19 2018
+[SUCCESS]./tmpImg/0.0.0.04224050timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:19 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:19 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:19 2018
+[SUCCESS]./tmpImg/0.0.0.04224056timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:19 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:19 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:19 2018
+[SUCCESS]./tmpImg/0.0.0.04224071timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:19 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:19 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:19 2018
+[SUCCESS]./tmpImg/0.0.0.04224027timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:19 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:19 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:19 2018
+[SUCCESS]./tmpImg/0.0.0.04224015timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:19 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:19 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:19 2018
+[SUCCESS]./tmpImg/0.0.0.04224038timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:19 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:19 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:19 2018
+[SUCCESS]./tmpImg/0.0.0.04224044timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:19 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:20 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:20 2018
+[SUCCESS]./tmpImg/0.0.0.04224048timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:20 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:20 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:20 2018
+[SUCCESS]./tmpImg/0.0.0.04224046timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:20 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:20 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:20 2018
+[SUCCESS]./tmpImg/0.0.0.042240105timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:20 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:21 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:21 2018
+[SUCCESS]./tmpImg/0.0.0.04224090timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:21 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:21 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:21 2018
+[SUCCESS]./tmpImg/0.0.0.04224021timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:21 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:21 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:21 2018
+[SUCCESS]./tmpImg/0.0.0.04224072timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:21 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:21 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:21 2018
+[SUCCESS]./tmpImg/0.0.0.04224057timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:21 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:22 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:22 2018
+[SUCCESS]./tmpImg/0.0.0.042240101timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:22 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:22 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:22 2018
+[SUCCESS]./tmpImg/0.0.0.04224089timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:22 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:22 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:22 2018
+[SUCCESS]./tmpImg/0.0.0.04224074timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:22 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:22 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:22 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:22 2018
+[SUCCESS]./tmpImg/0.0.0.04224086timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:23 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:23 2018
+[SUCCESS]./tmpImg/0.0.0.04224079timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:23 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:23 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:23 2018
+[SUCCESS]./tmpImg/0.0.0.04224067timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:23 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:23 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:23 2018
+[SUCCESS]./tmpImg/0.0.0.04224078timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:23 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:23 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:23 2018
+[SUCCESS]./tmpImg/0.0.0.04224093timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:23 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:23 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:23 2018
+[SUCCESS]./tmpImg/0.0.0.042240106timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:23 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:23 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:23 2018
+[SUCCESS]./tmpImg/0.0.0.04224099timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:23 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:24 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:24 2018
+[SUCCESS]./tmpImg/0.0.0.04224098timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:24 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:24 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:24 2018
+[SUCCESS]./tmpImg/0.0.0.04224059timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:24 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:24 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:24 2018
+[SUCCESS]./tmpImg/0.0.0.042240100timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:24 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:24 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:24 2018
+[SUCCESS]./tmpImg/0.0.0.04224096timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:24 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:25 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:25 2018
+[SUCCESS]./tmpImg/0.0.0.04224082timg4_mainColor.jpg
+TIME:Fri Jan 12 17:12:25 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:25 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:25 2018
+[SUCCESS]./tmpImg/0.0.0.04224094timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:25 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:25 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:25 2018
+[SUCCESS]./tmpImg/0.0.0.04224088timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:25 2018
+[SUCCESS]k_means start
+TIME:Fri Jan 12 17:12:25 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:25 2018
+[SUCCESS]./tmpImg/0.0.0.04224097timg2_mainColor.jpg
+TIME:Fri Jan 12 17:12:25 2018
+[SUCCESS]k_means end
+TIME:Fri Jan 12 17:12:25 2018
+[SUCCESS]./tmpImg/0.0.0.04224025timg4_mainColor.jpg
