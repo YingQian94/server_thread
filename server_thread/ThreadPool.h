@@ -10,8 +10,8 @@
 #include "Lock.h"
 #include "server.h"
 using namespace std;
-#define MAX_THREADS 64
-#define MAX_QUEUES  1000
+extern const int MAX_THREADS;
+extern const int MAX_QUEUES; 
 
 struct threadpool_task{
     void* (*function)(void *);
@@ -36,8 +36,8 @@ class ThreadPool{
     bool stop;                  //线程池是否终止
 public:
     //typedef void*(*ThreadLoop)(void *);
-    void *run();
-    ThreadPool(int cnt);
+    void *run();     //线程实际运行函数
+    ThreadPool(int cnt=8);
     ~ThreadPool();
     int add_task(void*(*function)(void *),void * argument);
 };

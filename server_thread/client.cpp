@@ -1,4 +1,5 @@
 #include "client.h"
+
 //****************************************//
 /*
 客户端采用非阻塞connect+select+单进程处理多张图片的需求
@@ -229,6 +230,7 @@ int main(int argc,char ** argv)
             {
                 c.receiveImage(&file[i]);
                 close(fd);
+                printf("success got image\n");
                 file[i].f_flags=F_DONE;
                 FD_CLR(fd,&(c.rset));
                 nconn--;

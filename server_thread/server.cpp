@@ -1,18 +1,23 @@
 #include "server.h"
+#include <time.h>
 #include <iostream>
 #include <memory>
+#include <functional>
 using namespace std;
+using namespace std::placeholders;
+extern const int TIMESLOT=10;
 const char DEFAULTPATH[30]="./tmpImg/";
 
-server::server()                            //创建listenfd
+server::server() : tHeap(1000)                           //堆数组初始化容量为1000
 {
-    //pthread_mutex_init(&mapMutex,NULL);
-    int sockfd;
-    if((sockfd=socket(AF_INET,SOCK_STREAM,0))==-1)
+    pthread_mutex_init(&mapMutex,NULL);
+
+    if((listenfd=socket(AF_INET,SOCK_STREAM,0))==-1)
     {
         perror("socket failed!\n");
         mylog.writeLog((char *)"socket failed!",1);
-    }    
+    }  
+
     struct sockaddr_in my_addr;
     my_addr.sin_family=AF_INET;
     my_addr.sin_port=htons(PORT);
@@ -21,18 +26,18 @@ server::server()                            //创建listenfd
     //设置监听套接字为SO_REUSEADDR,服务器程序停止后想立即重启，而新套接字依旧使用同一端口
     //但必须意识到，此时任何非期望数据到达，都可能导致服务程序反应混乱，需要慎用
     int nOptval=1;                                                                          
-    if(setsockopt(sockfd,SOL_SOCKET,SO_REUSEADDR,(const void*)&nOptval,sizeof(int))<0)      
+    if(setsockopt(listenfd,SOL_SOCKET,SO_REUSEADDR,(const void*)&nOptval,sizeof(int))<0)      
     {
         perror("set SO_REUSEADDR error\n");
         mylog.writeLog((char *)"set SO_REUSEADDR error",1);
     }
-    if(bind(sockfd,(struct sockaddr*)&my_addr,sizeof(my_addr))==-1)
+    if(bind(listenfd,(struct sockaddr*)&my_addr,sizeof(my_addr))==-1)
     {
         perror("bind failed!");
         mylog.writeLog((char *)"bind failed!",1);
     }    
 
-    //设置套接字存活属性
+    /*//设置套接字存活属性
     int keepalive=1;
     if(setsockopt(sockfd,SOL_SOCKET,SO_KEEPALIVE,(void *)&keepalive,sizeof(keepalive))<0)
     {
@@ -55,20 +60,20 @@ server::server()                            //创建listenfd
     if(setsockopt(sockfd,IPPROTO_TCP,TCP_KEEPCNT,(void *)&keepalive_probes,sizeof(keepalive_probes))<0)
     {
         mylog.writeLog((char *)"set KEEPCNT error",1);
-    }
+    }*/
     //设置tcp nodelay，不会将小包进行拼接成大包再进行发送，而是直接将小包发送出去
     int tcpnodelay=1;
-    if(setsockopt(sockfd,IPPROTO_TCP,TCP_NODELAY,(void *)&tcpnodelay,sizeof(tcpnodelay))<0)
+    if(setsockopt(listenfd,IPPROTO_TCP,TCP_NODELAY,(void *)&tcpnodelay,sizeof(tcpnodelay))<0)
     {
         mylog.writeLog((char *)"set TCP_NODELAY error",1);
     }
 
-    if(listen(sockfd,CONNECTNUM)==-1)
+    if(listen(listenfd,CONNECTNUM)==-1)
     {
         perror("listen failed!");
         mylog.writeLog((char *)"listen failed!",1);
-    }    
-    listenfd=sockfd;
+    }
+
     setnonblock(listenfd);
     myepoll.add_event(listenfd,EPOLLIN|EPOLLET);    //listenfd 加入epoll
 }
@@ -76,7 +81,7 @@ server::server()                            //创建listenfd
 server::~server()
 {
     close(listenfd);
-    //pthread_mutex_destroy(&mapMutex);
+    pthread_mutex_destroy(&mapMutex);
 }
 
 void server::setnonblock(int sockfd){    //sockfd非阻塞读写，防止拒绝服务攻击
@@ -99,18 +104,29 @@ void server::setnonblock(int sockfd){    //sockfd非阻塞读写，防止拒绝�
 
 void server::Error(int connfd,int n)    //socket错误处理
 {
+    heap_timer *timer;
+    {
+        Lock l(&(this->mapMutex));
+        timer=record[connfd].timer;
+    }
     if(n==0)
     {
         printf("client close\n");
         mylog.writeLog((char *)"client close",1);
+        deleteRecord(connfd);
         close(connfd);
+        if(timer)
+            tHeap.del_timer(timer);
     }
     else if(n<0){
         if(!(errno==EAGAIN || errno==EWOULDBLOCK))
         {
             printf("error \n");
             mylog.writeLog((char *)"send or write error",1);
+            deleteRecord(connfd);
             close(connfd);
+            if(timer)
+                tHeap.del_timer(timer);
         }
     }
 }
@@ -129,13 +145,19 @@ void server::handle_accept()    //处理accept新连接
         setnonblock(connfd);
         //shared_ptr<Data> ptr(new Data);
         Data d;
-        {
-            // Lock(&(this->sharedMutex));
-            // record[connfd]=ptr;
-            //Lock(&(this->mapMutex));
-            record[connfd]=d;
-        }
         myepoll.add_event(connfd,EPOLLIN|EPOLLET|EPOLLONESHOT);
+        //添加到堆数组中
+        heap_timer *timer=new heap_timer;
+        timer->connfd=connfd;
+        time_t cur=time(NULL);
+        timer->expire=cur+3*TIMESLOT;
+        timer->cb_func=(CBFunc)(&server::cb_func);
+        {
+            Lock l(&(this->mapMutex));
+            record[connfd]=d;
+            record[connfd].timer=timer;
+        }
+        tHeap.add_timer(timer);
     }
     if(connfd<0)
     {
@@ -148,34 +170,43 @@ void server::handle_accept()    //处理accept新连接
     //myepoll.modify_event(listenfd,EPOLLIN|EPOLLET);
 }
 
-bool server::do_socket_read(int connfd) //epoll中event描述符为EPOLLIN时需要处理socket读
+void server::do_socket_read(int connfd) //epoll中event描述符为EPOLLIN时需要处理socket读
 {
+    heap_timer *timer;
     int n;
     char buff[MAXLINE];
-    //file length 读取
     {
-        long l;
+        Lock l(&(this->mapMutex));
+        if(record.find(connfd)==record.end()) //如果已经被定时器删除则不处理
+            return;
+        timer=record[connfd].timer;
+    } 
+
+    adjust_timer(timer);
+
+    {
+        //file length 读取
+        long ll;
         memset(buff,0,MAXLINE);
         n=readn(connfd,buff,sizeof(long));
-        memcpy(&l,buff,sizeof(long));
-        l=(long)ntohl(l);
+        memcpy(&ll,buff,sizeof(long));
+        ll=(long)ntohl(ll);
         if(n>0)
         {
             char printstr[NAMELEN];
             {
-                //Lock(&(this->mapMutex));
+                Lock l(&(this->mapMutex));
                 record[connfd].sockfd=connfd;
-                record[connfd].fileLen=l;
-                //printf("record[connfd].back().fileLen:%ld\n",record[connfd].fileLen);
-                sprintf(printstr,"record[connfd].back().fileLen:%ld",record[connfd].fileLen);
+                record[connfd].fileLen=ll;
             }
+            //printf("record[connfd].back().fileLen:%ld\n",record[connfd].fileLen);
+            sprintf(printstr,"record[connfd].back().fileLen:%ld",ll);
             mylog.writeLog(printstr,0);
         }    
         else
             Error(connfd,n);
-    }
-    //k 读取
-    {
+
+        //k 读取
         int kRev;
         memset(buff,0,MAXLINE);
         n=readn(connfd,buff,sizeof(int));
@@ -185,32 +216,28 @@ bool server::do_socket_read(int connfd) //epoll中event描述符为EPOLLIN时需
         {
             char printstr[NAMELEN];
             {
+                Lock l(&(this->mapMutex));
                 record[connfd].k=kRev;
-                //printf("record[connfd].back().k:%d\n",record[connfd].k);
-                sprintf(printstr,"record[connfd].back().k:%d",record[connfd].k);
             }
+            //printf("record[connfd].back().k:%d\n",record[connfd].k);
+            sprintf(printstr,"record[connfd].back().k:%d",record[connfd].k);
             mylog.writeLog(printstr,0);
         }    
         else
             Error(connfd,n);
-    }
-    //imagename 读取
-    {
+
+        //imagename 读取
         memset(buff,0,MAXLINE);
         n=readn(connfd,buff,MAXLINE);
         if(n>0)
         {
-            //Lock(&(this->mapMutex));
+            Lock l(&(this->mapMutex));
             memcpy(record[connfd].imagename,buff,strlen(buff)+1);
-            //printf("record[connfd].back().imagename:%s\n",record[connfd].imagename);
         }
         else
             Error(connfd,n);
         char ttmp[NAMELEN],printstr[NAMELEN];
-        {
-            //Lock(&(this->mapMutex));
-            strcpy(ttmp,record[connfd].imagename);
-        }
+        strcpy(ttmp,buff);
         char *tmp;
         tmp=strrchr(ttmp,'/')+1;
         memcpy(printstr,DEFAULTPATH,strlen(DEFAULTPATH));
@@ -229,30 +256,27 @@ bool server::do_socket_read(int connfd) //epoll中event描述符为EPOLLIN时需
         printstr[strlen(DEFAULTPATH)+strlen(addr_c)+strlen(port_c)+strlen(connfd_c)+strlen(tmp)]='\0';
         //printf("record[connfd].back().filename:%s\n",record[connfd].filename);
         {
-            //Lock(&(this->mapMutex));
+            Lock l(&(this->mapMutex));
             sprintf(record[connfd].filename,"%s",printstr);
-        }
+        }   
         mylog.writeLog(printstr,0);
     }
     //文件读取
     {
-        memset(buff,0,MAXLINE);
         char filename[NAMELEN];
+        long getLen=0,fileLen;
+        memset(buff,0,MAXLINE);
         {
-            //Lock(&(this->mapMutex));
+            Lock l(&(this->mapMutex));
             strcpy(filename,record[connfd].filename);
+            fileLen=record[connfd].fileLen;
         }
         FILE *fp=fopen(filename,"wb");
         if(fp==NULL)
         {
             printf("open failed\n");
-            return false;
-        }
-        long fileLen,getLen=0;
-        {
-            //Lock(&(this->mapMutex));
-            fileLen=record[connfd].fileLen;
-        }
+            exit(1);
+        }    
         while(getLen<fileLen)
         {
             if((fileLen-getLen)>MAXLINE)
@@ -270,6 +294,7 @@ bool server::do_socket_read(int connfd) //epoll中event描述符为EPOLLIN时需
                 {
                     printf("error \n");
                     mylog.writeLog((char *)"send or write error",1);
+                    deleteRecord(connfd);
                     close(connfd);
                     fclose(fp);
                     break;
@@ -279,24 +304,22 @@ bool server::do_socket_read(int connfd) //epoll中event描述符为EPOLLIN时需
             {
                 printf("client close\n");
                 mylog.writeLog((char *)"client close",1);
+                deleteRecord(connfd);
                 close(connfd);
                 fclose(fp);
                 break;
             }
             if(getLen==fileLen)
             {
-                //printf("success got image\n");
+                printf("success got image\n");
                 mylog.writeLog((char *)"success got image",0);
                 fflush(fp);
                 fclose(fp);
                 doProcessPush(connfd); //加入待处理队列
-                return true;
             }
         }
-        return false;
     }
-    //myepoll.modify_event(connfd,EPOLLIN|EPOLLET|EPOLLONESHOT); //重新加入epoll
-    //return false;
+   
 }
 
 void server::do_socket_write(int connfd) //服务器发送图片
@@ -304,7 +327,7 @@ void server::do_socket_write(int connfd) //服务器发送图片
     char buff[MAXLINE];
     char outname[NAMELEN],filename[NAMELEN];
     {
-        //Lock(&(this->mapMutex));
+        Lock l(&(this->mapMutex));
         strcpy(filename,record[connfd].filename);
     }
     memcpy(outname,filename,strlen(filename)-4);
@@ -331,8 +354,6 @@ void server::do_socket_write(int connfd) //服务器发送图片
         mylog.writeLog(printstr,1);
         return ;
     }
-    // else
-    //     printf("open file success\n");
     fseek(fp,0,SEEK_END);
     long len=ftell(fp),needSend=len;
     len=htonl(len);
@@ -342,7 +363,7 @@ void server::do_socket_write(int connfd) //服务器发送图片
     int writeLen=writen(connfd,buff,sizeof(long));   //发送文件长度
     assert(writeLen==sizeof(long));
     memset(buff,0,MAXLINE);
-    //printf("send length finish\n");
+    printf("send length finish\n");
     while(needSend>MAXLINE)                         //发送文件
     {
         fread(buff,MAXLINE,1,fp);
@@ -360,14 +381,19 @@ void server::do_socket_write(int connfd) //服务器发送图片
     fclose(fp);
     remove(outname);
     remove(filename);
-    //printf("finish send image\n");
+    //printf("finish send image,outname:%s\n",outname);
     //mylog.writeLog((char *)"finish send image",0);
     shutdown(connfd,SHUT_RD);  //无法接收数据，receive buffer 被丢弃掉，可以发送数据
+    deleteRecord(connfd);
+}
+
+void server::deleteRecord(int connfd)
+{
     {
-        //Lock(&(this->mapMutex));
+        Lock mL(&(this->mapMutex));
         record.erase(record.find(connfd)); //从map中删除connfd
     }
-    myepoll.delete_event(connfd,EPOLLOUT|EPOLLET|EPOLLONESHOT);//从epoll 中删除connfd
+    myepoll.delete_event(connfd,0);//从epoll 中删除connfd
 }
 
 bool server::isProcessEmpty() 
@@ -421,18 +447,6 @@ void server::epoll_modify_event(int fd,int state){
     myepoll.modify_event(fd,state);
 }
 
-void server::getDataK(int &k,int connfd) 
-{
-    //Lock(&(this->mapMutex));
-    k=record[connfd].k;
-}
-
-void server::getDataFilename(char *filename,int connfd) 
-{
-    //Lock(&(this->mapMutex));
-    strcpy(filename,record[connfd].filename);
-}
-
 int server::epoll_get_wait(int time){
     return myepoll.get_wait(time);
 }
@@ -442,4 +456,60 @@ struct epoll_event *server::getEvent()
     return myepoll.get_epollE();
 }
 
+void server::getDataK(int &k,int connfd) 
+{
+    Lock l(&(this->mapMutex));
+    k=record[connfd].k;
+}
 
+void server::getDataFilename(char *filename,int connfd) 
+{
+    Lock l(&(this->mapMutex));
+    strcpy(filename,record[connfd].filename);
+}
+
+/*******************************/
+//定时器调用函数
+void server::cb_func(int connfd)
+{
+    if(findRecord(connfd)==false)
+    {
+        printf("find record cb_func false\n");
+        return;
+    }    
+    printf("server cb_func connfd:%d\n",connfd);
+    char *filename;
+    {
+        Lock l(&(this->mapMutex));
+        filename=record[connfd].filename;
+    }
+    FILE *fp=fopen(filename,"rb");
+    if(fp!=NULL)
+    {
+        fclose(fp);
+        remove(filename);
+    }
+    deleteRecord(connfd);
+    close(connfd);
+}
+
+void server::tick(){
+    tHeap.tick(this);
+}
+
+bool server::findRecord(int connfd){
+    Lock l(&(this->mapMutex));
+    if(record.find(connfd)!=record.end())
+        return true;
+    else return false;
+}
+
+void server::adjust_timer(heap_timer *timer){
+    time_t cur=time(NULL);
+    timer->expire=cur+3*TIMESLOT;
+    tHeap.adjust_timer(timer);
+}
+
+heap_timer * server::getTimer(int connfd){
+    return record[connfd].timer;
+}

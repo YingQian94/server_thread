@@ -25,6 +25,34 @@ Lock不需要声明析构函数，而是利用编译器生成的析构函数，
 //     shared_ptr<pthread_mutex_t> mutexPtr;
 // };
 
+// class MutexLock{
+// public:
+//     MutexLock()
+//     {
+//         pthread_mutex_init(&mutex,NULL);
+//     }
+//     ~MutexLock()
+//     {
+//         pthread_mutex_destroy(&mutex);
+//     }
+//     void lock()
+//     {
+//         pthread_mutex_lock(&mutex);
+//     }
+//     void unlock()
+//     {
+//         pthread_mutex_unlock(&mutex);
+//     }
+//     pthread_mutex_t * getPthreadMutex()
+//     {
+//         return &mutex;
+//     }
+//     MutexLock(const MutexLock&)=delete;
+//     Mutex& operator=(const MutexLock&)=delete;
+// private:
+//     pthread_mutex_lock mutex;
+// }
+
 class Lock{
 public:
     Lock(pthread_mutex_t *mx):mutex(mx)
@@ -41,5 +69,8 @@ public:
 private:
     pthread_mutex_t *mutex;
 };
+
+/*用于防止出现Lock(mutex)遗漏变量名，产生一个临时对象又马上销毁的情况，注意无法锁住临界区*/
+#define Lock(x) static_assert(false,"missing mutex guard var name")
 
 #endif

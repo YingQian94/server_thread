@@ -29,13 +29,13 @@
 #define IPADDRESS "139.199.230.43"
 #define PORT 9999
 #define CONNECTNUM 1000 //listen监听数目
-#define MAXLINE 1024
+#define MAXLINE 4096
 #define NAMELEN 100
 using namespace std;
 using namespace cv;
 
 typedef void Sigfunc(int);
-//int readAll(int sockfd,char * buff,int len);
+int readNonBlock(int sockfd,char * buff,int len);
 int readn(int sockfd,char * buff,int len);
 int writen(int sockfd,char *buff,int len);
 //int writeAll(int sockfd,char *buff,int len);

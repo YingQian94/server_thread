@@ -15,7 +15,11 @@ int readn(int sockfd,char * buff,int len)
                 continue;
             else
             {
-                printf("iThisRec:%d\n",iThisRec);
+                struct sockaddr_in client_addr;
+                socklen_t len;
+                getsockname(sockfd,(struct sockaddr *)&client_addr,&len);
+                int port=ntohs(client_addr.sin_port);
+                printf("iThisRec:%d,port:%d,connfd:%d\n",iThisRec,port,sockfd);
                 return iThisRec;
             }
         }
@@ -30,29 +34,31 @@ int readn(int sockfd,char * buff,int len)
     return iRecLen;
 }
 
-// int readAll(int sockfd,char * buff,int len)
-// {
-//     int iThisRec=0;
-//     int iRecLen=0;
-//     while(iRecLen<len)
-//     {
-//         do{
-//             iThisRec=read(sockfd,buff,len-iRecLen);
-//         }while(iThisRec==-1 && errno==EINTR);
-//         if(iThisRec<0)
-//         {
-//             return iThisRec;
-//         }
-//         else if(iThisRec==0)
-//         {
-//             printf("socket close\n");
-//             close(sockfd);
-//         }
-//         iRecLen+=iThisRec;
-//         buff+=iThisRec;
-//     }
-//     return iRecLen;
-// }
+int readNonBlock(int sockfd,char * buff,int len)
+{
+    int iThisRec=0;
+    int iRecLen=0;
+    while(iRecLen<len)
+    {
+        do{
+            iThisRec=read(sockfd,buff,len-iRecLen);
+        }while(iThisRec==-1 && errno==EINTR);
+        if(iThisRec<0)
+        {
+            if(errno==EWOULDBLOCK)
+                return iRecLen;
+            else 
+                return iThisRec;
+        }
+        else if(iThisRec==0)
+        {
+            return iRecLen;
+        }
+        iRecLen+=iThisRec;
+        buff+=iThisRec;
+    }
+    return iRecLen;
+}
 
 int writen(int sockfd,char *buff,int len)
 {
@@ -70,12 +76,12 @@ int writen(int sockfd,char *buff,int len)
             else
             {
                 printf("iThisWri:%d\n",iThisWri);
-                return iThisWri;
+                return iWriLen;
             }
         }
         else if(iThisWri==0)
         {
-            return 0;
+            return iWriLen;
         }
         iWriLen+=iThisWri;
         buff+=iThisWri;

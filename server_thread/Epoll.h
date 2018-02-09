@@ -5,6 +5,7 @@
 #include <sys/epoll.h>
 #include <sys/types.h>
 #include <sys/socket.h>
+#include "Lock.h"
 #define FDSIZE 1000   //内核要监听的数目
 #define EPOLLEVENTS 100 //等待事件产生的最大数目
 

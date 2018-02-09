@@ -2,8 +2,20 @@
 #include <assert.h>
 #include <functional>
 
+extern const int MAX_THREADS=64;
+extern const int MAX_QUEUES=1000; 
+
 ThreadPool::ThreadPool(int cnt):stop(false)
 {
+    sigset_t newset,oldset;
+    sigemptyset(&newset);
+    sigaddset(&newset,SIGALRM);
+    int err;
+    if((err=pthread_sigmask(SIG_BLOCK,&newset,&oldset))!=0)
+    {
+        perror("pthread_sigmask error\n");
+        exit(1);
+    }
     assert(cnt<=MAX_THREADS && cnt>0);
     assert(pthread_mutex_init(&p_mutex,NULL)==0 && pthread_cond_init(&p_cond,NULL)==0);
     threads.resize(cnt);

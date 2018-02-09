@@ -12,7 +12,7 @@ Epoll::~Epoll()
 
 void Epoll::add_event(int fd,int state)
 {
-    struct epoll_event ev;
+    struct epoll_event ev={0};
     ev.events=state;
     ev.data.fd=fd;
     epoll_ctl(epollfd,EPOLL_CTL_ADD,fd,&ev);
@@ -20,7 +20,7 @@ void Epoll::add_event(int fd,int state)
 
 void Epoll::delete_event(int fd,int state)
 {
-    struct epoll_event ev;
+    struct epoll_event ev={0};
     ev.events=state;
     ev.data.fd=fd;
     epoll_ctl(epollfd,EPOLL_CTL_DEL,fd,&ev);
@@ -28,7 +28,7 @@ void Epoll::delete_event(int fd,int state)
 
 void Epoll::modify_event(int fd,int state)
 {
-    struct epoll_event ev;
+    struct epoll_event ev={0};
     ev.events=state;
     ev.data.fd=fd;
     epoll_ctl(epollfd,EPOLL_CTL_MOD,fd,&ev);
