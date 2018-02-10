@@ -23,19 +23,13 @@ public:
 };
 IgnoreSigPipe initObj;
 
-struct Arg{
-    server *s;
-    int connfd;
-    Arg(server *ss,int k):s(ss),connfd(k){};
-    Arg():s(NULL),connfd(-1){};
-};
-
 struct SigArg{
     server *s;
     sigset_t *set;
 };
 
-Arg args[1000];  //用于传递给线程池中的参数，防止在同一地址进行取值，造成取值不同的错误
+//用于传递给线程池中的参数，防止在同一地址进行取值，造成取值不同的错误
+Arg args[1000];  
 
 //线程池有8个线程,线程池采用单例模式
 ThreadPool &pool=Singleton<ThreadPool>::instance();
@@ -43,6 +37,7 @@ ThreadPool &pool=Singleton<ThreadPool>::instance();
 void * k_means(void *arg);//使用k-means得到图片主颜色
 void *handleread(void *arg);        //处理读线程
 void * processImage(void *arg);  //处理图片线程
+void *handlerwrite(void *arg);      //处理写进程
 void *logThread(void *arg);  //处理日志线程
 void *handleSig(void *arg); //专门处理SIGALRM信号的线程,用来实现高效时间堆
 
@@ -59,17 +54,18 @@ int main()
         exit(1);
     }
 
-    //server s;//服务器初始化,server采用单例模式
+    //server s;服务器初始化,server采用单例模式
     server &s=Singleton<server>::instance();
 
-    pthread_t pid[4];
+    pthread_t pid[5];
     pthread_create(&pid[0],NULL,handleread,&s);
     pthread_create(&pid[1],NULL,processImage,&s);
     pthread_create(&pid[2],NULL,logThread,&s);
+    pthread_create(&pid[3],NULL,handlerwrite,&s);
     SigArg sigarg;
     sigarg.s=&s;
     sigarg.set=&newset;
-    pthread_create(&pid[3],NULL,handleSig,&sigarg);
+    pthread_create(&pid[4],NULL,handleSig,&sigarg);
     alarm(TIMESLOT);
     while(1)
     {
@@ -102,7 +98,7 @@ int main()
         }
     }
 
-    for(int i=0;i<4;i++)
+    for(int i=0;i<5;i++)
     {
         pthread_join(pid[i],NULL);
     }
@@ -228,7 +224,8 @@ void * k_means(void *arg)
     //简单地说：EPOLLOUT事件只有在不可写到可写的转变时刻，才会触发一次，所以叫边缘触发，这叫法没错的！
     */
     //s->epoll_add_event(connfd,EPOLLOUT|EPOLLIN|EPOLLET|EPOLLONESHOT); 
-    s->do_socket_write(connfd);
+    //s->do_socket_write(connfd);
+    s->doWritePush(connfd);
     return NULL;
 }
 
@@ -237,15 +234,19 @@ void *handleread(void *arg)        //处理读线程
     server *s=(server *)arg;
     while(1)
     {
-        if(s->isReadEmpty())
-        {
-            sleep(1);
-        }    
-        else{
-            int connfd=0;
-            if(s->getReadFront(connfd))
-                s->do_socket_read(connfd);
-        }
+        int connfd=s->getReadFront();
+        s->do_socket_read(connfd);
+    }
+    return NULL;
+}
+
+void *handlerwrite(void *arg)        //处理读线程
+{
+    server *s=(server *)arg;
+    while(1)
+    {
+        int connfd=s->getWriteFront();
+        s->do_socket_write(connfd);
     }
     return NULL;
 }
@@ -255,26 +256,18 @@ void * processImage(void *arg)  //处理图片线程
     server *s=(server *)arg;
     while(1)
     {
-        if(s->isProcessEmpty())
+        int connfd=s->getProcessFront();
+        int i;
+        for(i=0;i<1000;i++)
         {
-            sleep(1);
-        }    
-        else{
-            int connfd=0;
-            if(s->getProcessFront(connfd))
-            {
-                int i;
-                for(i=0;i<1000;i++)
-                {
-                    if(args[i].connfd==-1)
-                        break;
-                }
-                args[i].s=s;
-                args[i].connfd=connfd;
-                //printf("connfd:%d\n",connfd);
-                pool.add_task(k_means,(void *)&args[i]);          //k_means 放入线程池;
-            }
+            if(args[i].connfd==-1)
+                break;
         }
+        args[i].s=s;
+        args[i].connfd=connfd;
+        //printf("connfd:%d\n",connfd);
+        //k_means 放入线程池;
+        pool.add_task(k_means,(void *)&args[i]);          
     }
     return NULL;
 }

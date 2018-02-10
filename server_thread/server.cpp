@@ -5,7 +5,7 @@
 #include <functional>
 using namespace std;
 using namespace std::placeholders;
-extern const int TIMESLOT=10;
+extern const int TIMESLOT=100;
 const char DEFAULTPATH[30]="./tmpImg/";
 
 server::server() : tHeap(1000)                           //堆数组初始化容量为1000
@@ -383,7 +383,8 @@ void server::do_socket_write(int connfd) //服务器发送图片
     remove(filename);
     //printf("finish send image,outname:%s\n",outname);
     //mylog.writeLog((char *)"finish send image",0);
-    shutdown(connfd,SHUT_RD);  //无法接收数据，receive buffer 被丢弃掉，可以发送数据
+    //shutdown(connfd,SHUT_RD);  //无法接收数据，receive buffer 被丢弃掉，可以发送数据
+    close(connfd);
     deleteRecord(connfd);
 }
 
@@ -396,34 +397,31 @@ void server::deleteRecord(int connfd)
     myepoll.delete_event(connfd,0);//从epoll 中删除connfd
 }
 
-bool server::isProcessEmpty() 
+void server::doProcessPush(int connfd) 
 {
-    return processQ.isEmpty();
+    processQ.doPush(connfd);
 }
 
-bool server::doProcessPush(int connfd) 
+int server::getProcessFront() 
 {
-    return processQ.doPush(connfd);
+    return processQ.getFront();
 }
 
-bool server::getProcessFront(int &connfd) 
+void server::doReadPush(int connfd)
 {
-    return processQ.getFront(connfd);
+    readQ.doPush(connfd);
 }
 
-bool server::isReadEmpty() 
+int server::getReadFront() 
 {
-    return readQ.isEmpty();
+    return readQ.getFront();
 }
 
-bool server::doReadPush(int connfd)
-{
-    return readQ.doPush(connfd);
+void server::doWritePush(int connfd){
+    writeQ.doPush(connfd);
 }
-
-bool server::getReadFront(int &connfd) 
-{
-    return readQ.getFront(connfd);
+int server::getWriteFront() {
+    return writeQ.getFront();
 }
 
 void server::logWrite(char *info,bool debug)

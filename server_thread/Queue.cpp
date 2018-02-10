@@ -1,38 +1,38 @@
 #include "Queue.h"
 #include "Lock.h"
+#include <assert.h>
 
 Queue::Queue()
 {
-    pthread_mutex_init(&lock,NULL);
+    pthread_mutex_init(&mutex,NULL);
+    pthread_cond_init(&cond,NULL);
 }
 
 Queue::~Queue()
 {
-    pthread_mutex_destroy(&lock);
+    pthread_mutex_destroy(&mutex);
+    pthread_cond_destroy(&cond);
 }
 
-bool Queue::isEmpty() 
+int Queue::getFront()
 {
-    Lock l(&(lock));
-    return q.empty();
-}
-
-bool Queue::getFront(int &connfd) 
-{
-    Lock l(&(lock));
-    if(!q.empty())
+    Lock l(&(this->mutex));
+    while(q.empty())
     {
-        connfd=q.front();
-        q.pop();
-        return true;
+        pthread_cond_wait(&cond,&mutex);
     }
-    else return false;
+    assert(!q.empty());
+    int connfd=q.front();
+    q.pop();
+    return connfd;
 }
 
-bool Queue::doPush(int connfd)
+void Queue::doPush(int connfd)
 {
-    Lock l(&(lock));
-    q.push(connfd);
-    return true;
+    {
+        Lock l(&(this->mutex));
+        q.push(connfd);
+    }
+    pthread_cond_signal(&cond);
 }
 

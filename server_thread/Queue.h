@@ -7,13 +7,14 @@ using namespace std;
 
 class Queue{
     queue<int> q;
-    pthread_mutex_t lock;
+    pthread_mutex_t mutex;
+    pthread_cond_t cond;
 public:
-    bool isEmpty() ;
-    bool getFront(int &connfd) ;
-    bool doPush(int connfd);
+    int getFront();
+    void doPush(int connfd);
     Queue();
     ~Queue();
 };
+
 
 #endif

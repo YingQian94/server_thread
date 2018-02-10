@@ -19,6 +19,7 @@ class server{
     int listenfd;
     Queue processQ;
     Queue readQ;
+    Queue writeQ;
     Log mylog;
     Epoll myepoll;
     
@@ -51,12 +52,12 @@ public:
     int epoll_get_wait(int time);
     struct epoll_event *getEvent() ;
 
-    bool isProcessEmpty()  ;
-    bool doProcessPush(int connfd);
-    bool getProcessFront(int &connfd) ;
-    bool isReadEmpty()  ;
-    bool doReadPush(int connfd);
-    bool getReadFront(int &connfd) ;
+    void doProcessPush(int connfd);
+    int getProcessFront() ;
+    void doReadPush(int connfd);
+    int getReadFront() ;
+    void doWritePush(int connfd);
+    int getWriteFront() ;
 
     void Error(int connfd,int n);
     void do_socket_read(int connfd);
@@ -64,6 +65,13 @@ public:
     void handle_accept();
     int get_listenfd() const {return listenfd;} 
     void setnonblock(int sockfd);
+};
+
+struct Arg{
+    server *s;
+    int connfd;
+    Arg(server *ss,int k):s(ss),connfd(k){};
+    Arg():s(NULL),connfd(-1){};
 };
 
 #endif
