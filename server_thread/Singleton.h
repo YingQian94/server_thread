@@ -5,19 +5,20 @@
 
 template<typename T>
 class Singleton{
-public:
-    Singleton(const Singleton&)=delete;
-    Singleton & operator=(const Singleton&)=delete;
+private:
     Singleton();
     ~Singleton();
+    Singleton(const Singleton&)=delete;
+    Singleton & operator=(const Singleton&)=delete;
+    static void init()
+    {
+        value=new T();
+    }
+public:
     static T& instance()
     {
         pthread_once(&once,&Singleton::init);
         return *value;
-    }
-    static void init()
-    {
-        value=new T();
     }
     static void deleteInstance()
     {

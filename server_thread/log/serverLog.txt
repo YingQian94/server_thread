@@ -1,640 +1,1920 @@
-TIME:Fri Feb  9 21:31:08 2018
+TIME:Sat Feb 10 18:57:22 2018
 [SUCCESS]add a new client:0.0.0.0:45390
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:8649
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:8905
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:9161
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:9161
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:9673
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:9929
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:10185
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:10185
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:10697
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:10697
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:11209
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:11209
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:11721
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:11977
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:12233
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:12233
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:12745
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:12745
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:13257
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:13257
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:13257
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:13257
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:13257
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:13257
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:14793
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:15049
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:15049
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:15049
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:15049
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:16585
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:15817
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:16329
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:16841
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:17865
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:17353
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:17097
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:18121
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:18377
-TIME:Fri Feb  9 21:31:08 2018
-[SUCCESS]add a new client:139.199.230.43:17609
-TIME:Fri Feb  9 21:31:08 2018
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:40394
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:40650
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:40906
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:40906
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:41418
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:41674
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:41930
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:41930
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:41930
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:42698
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:42698
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:42698
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:43466
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:43722
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:43722
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:43722
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:44490
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:44746
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:45002
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:45002
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:45002
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:45770
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:45770
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:46282
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:46282
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:46794
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:47050
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:47306
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:47306
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:47306
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:48074
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:48330
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:48330
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:48330
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:48330
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:48330
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:48330
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:49866
+TIME:Sat Feb 10 18:57:22 2018
+[SUCCESS]add a new client:139.199.230.43:49866
+TIME:Sat Feb 10 18:57:22 2018
 [SUCCESS]record[connfd].back().fileLen:85872
-TIME:Fri Feb  9 21:31:08 2018
+TIME:Sat Feb 10 18:57:22 2018
 [SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:08 2018
+TIME:Sat Feb 10 18:57:22 2018
 [SUCCESS]./tmpImg/0.0.0.0010timg3.jpg
-TIME:Fri Feb  9 21:31:11 2018
+TIME:Sat Feb 10 18:57:27 2018
 [SUCCESS]success got image
-TIME:Fri Feb  9 21:31:11 2018
+TIME:Sat Feb 10 18:57:27 2018
 [SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:11 2018
+TIME:Sat Feb 10 18:57:27 2018
 [SUCCESS]record[connfd].back().fileLen:85872
-TIME:Fri Feb  9 21:31:11 2018
+TIME:Sat Feb 10 18:57:27 2018
 [SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:11 2018
-[SUCCESS]./tmpImg/0.0.0.006timg3.jpg
-TIME:Fri Feb  9 21:31:11 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:11 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:11 2018
-[SUCCESS]record[connfd].back().fileLen:85872
-TIME:Fri Feb  9 21:31:11 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:11 2018
-[SUCCESS]./tmpImg/0.0.0.0022timg3.jpg
-TIME:Fri Feb  9 21:31:12 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:12 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:12 2018
-[SUCCESS]record[connfd].back().fileLen:85872
-TIME:Fri Feb  9 21:31:12 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:12 2018
-[SUCCESS]./tmpImg/0.0.0.0018timg3.jpg
-TIME:Fri Feb  9 21:31:13 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:13 2018
-[SUCCESS]./tmpImg/0.0.0.0010timg3_mainColor.jpg
-TIME:Fri Feb  9 21:31:14 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:14 2018
-[SUCCESS]./tmpImg/0.0.0.006timg3_mainColor.jpg
-TIME:Fri Feb  9 21:31:14 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:14 2018
-[SUCCESS]./tmpImg/0.0.0.0022timg3_mainColor.jpg
-TIME:Fri Feb  9 21:31:20 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:20 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:20 2018
-[SUCCESS]record[connfd].back().fileLen:85872
-TIME:Fri Feb  9 21:31:20 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:20 2018
-[SUCCESS]./tmpImg/0.0.0.0026timg3.jpg
-TIME:Fri Feb  9 21:31:21 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:21 2018
-[SUCCESS]./tmpImg/0.0.0.0018timg3_mainColor.jpg
-TIME:Fri Feb  9 21:31:23 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:23 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:23 2018
-[SUCCESS]record[connfd].back().fileLen:85872
-TIME:Fri Feb  9 21:31:23 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:23 2018
-[SUCCESS]./tmpImg/0.0.0.0030timg3.jpg
-TIME:Fri Feb  9 21:31:23 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:23 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:23 2018
-[SUCCESS]record[connfd].back().fileLen:85872
-TIME:Fri Feb  9 21:31:23 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:23 2018
-[SUCCESS]./tmpImg/0.0.0.0034timg3.jpg
-TIME:Fri Feb  9 21:31:23 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:23 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:23 2018
-[SUCCESS]record[connfd].back().fileLen:85872
-TIME:Fri Feb  9 21:31:23 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:23 2018
-[SUCCESS]./tmpImg/0.0.0.0036timg3.jpg
-TIME:Fri Feb  9 21:31:23 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:23 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:23 2018
-[SUCCESS]record[connfd].back().fileLen:85872
-TIME:Fri Feb  9 21:31:23 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:23 2018
-[SUCCESS]./tmpImg/0.0.0.0045timg3.jpg
-TIME:Fri Feb  9 21:31:23 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:23 2018
-[SUCCESS]record[connfd].back().fileLen:85872
-TIME:Fri Feb  9 21:31:23 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:23 2018
+TIME:Sat Feb 10 18:57:27 2018
 [SUCCESS]./tmpImg/0.0.0.0014timg3.jpg
-TIME:Fri Feb  9 21:31:23 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:26 2018
+TIME:Sat Feb 10 18:57:28 2018
 [SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:26 2018
-[SUCCESS]./tmpImg/0.0.0.0036timg3_mainColor.jpg
-TIME:Fri Feb  9 21:31:26 2018
+TIME:Sat Feb 10 18:57:28 2018
+[SUCCESS]./tmpImg/0.0.0.0010timg3_mainColor.jpg
+TIME:Sat Feb 10 18:57:31 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:57:31 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:57:31 2018
+[SUCCESS]record[connfd].back().fileLen:85872
+TIME:Sat Feb 10 18:57:31 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:57:31 2018
+[SUCCESS]./tmpImg/0.0.0.0018timg3.jpg
+TIME:Sat Feb 10 18:57:31 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:57:31 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:57:31 2018
+[SUCCESS]record[connfd].back().fileLen:85872
+TIME:Sat Feb 10 18:57:31 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:57:31 2018
+[SUCCESS]./tmpImg/0.0.0.0027timg3.jpg
+TIME:Sat Feb 10 18:57:31 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:57:31 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:57:31 2018
+[SUCCESS]record[connfd].back().fileLen:85872
+TIME:Sat Feb 10 18:57:31 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:57:31 2018
+[SUCCESS]./tmpImg/0.0.0.0022timg3.jpg
+TIME:Sat Feb 10 18:57:31 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:57:31 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:57:31 2018
+[SUCCESS]record[connfd].back().fileLen:85872
+TIME:Sat Feb 10 18:57:31 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:57:31 2018
+[SUCCESS]./tmpImg/0.0.0.006timg3.jpg
+TIME:Sat Feb 10 18:57:33 2018
 [SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:26 2018
-[SUCCESS]./tmpImg/0.0.0.0034timg3_mainColor.jpg
-TIME:Fri Feb  9 21:31:26 2018
+TIME:Sat Feb 10 18:57:33 2018
+[SUCCESS]./tmpImg/0.0.0.0027timg3_mainColor.jpg
+TIME:Sat Feb 10 18:57:33 2018
 [SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:26 2018
-[SUCCESS]./tmpImg/0.0.0.0030timg3_mainColor.jpg
-TIME:Fri Feb  9 21:31:26 2018
+TIME:Sat Feb 10 18:57:33 2018
 [SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:26 2018
-[SUCCESS]./tmpImg/0.0.0.0026timg3_mainColor.jpg
-TIME:Fri Feb  9 21:31:26 2018
+TIME:Sat Feb 10 18:57:33 2018
+[SUCCESS]./tmpImg/0.0.0.0022timg3_mainColor.jpg
+TIME:Sat Feb 10 18:57:33 2018
 [SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:26 2018
-[SUCCESS]./tmpImg/0.0.0.0045timg3_mainColor.jpg
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]record[connfd].back().fileLen:161799
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]./tmpImg/0.0.0.0011timg4.jpg
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]record[connfd].back().fileLen:161799
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]./tmpImg/0.0.0.0023timg4.jpg
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]record[connfd].back().fileLen:161799
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]./tmpImg/0.0.0.007timg4.jpg
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]record[connfd].back().fileLen:161799
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]./tmpImg/0.0.0.0031timg4.jpg
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]record[connfd].back().fileLen:161799
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]./tmpImg/0.0.0.0037timg4.jpg
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]record[connfd].back().fileLen:161799
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]./tmpImg/0.0.0.0040timg4.jpg
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]record[connfd].back().fileLen:161799
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]./tmpImg/0.0.0.0027timg4.jpg
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]record[connfd].back().fileLen:161799
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]./tmpImg/0.0.0.0039timg4.jpg
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]record[connfd].back().fileLen:161799
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]./tmpImg/0.0.0.0019timg4.jpg
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]record[connfd].back().fileLen:173519
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]./tmpImg/0.0.0.0035timg5.jpg
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]record[connfd].back().fileLen:173519
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]./tmpImg/0.0.0.0012timg5.jpg
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]record[connfd].back().fileLen:173519
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]./tmpImg/0.0.0.0043timg5.jpg
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]record[connfd].back().fileLen:173519
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]./tmpImg/0.0.0.0032timg5.jpg
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]record[connfd].back().fileLen:173519
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:44 2018
-[SUCCESS]./tmpImg/0.0.0.0028timg5.jpg
-TIME:Fri Feb  9 21:31:47 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:47 2018
-[SUCCESS]./tmpImg/0.0.0.0037timg4_mainColor.jpg
-TIME:Fri Feb  9 21:31:47 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:47 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:47 2018
-[SUCCESS]./tmpImg/0.0.0.0023timg4_mainColor.jpg
-TIME:Fri Feb  9 21:31:47 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:47 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:47 2018
-[SUCCESS]./tmpImg/0.0.0.0031timg4_mainColor.jpg
-TIME:Fri Feb  9 21:31:47 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:47 2018
-[SUCCESS]./tmpImg/0.0.0.0040timg4_mainColor.jpg
-TIME:Fri Feb  9 21:31:47 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:47 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:47 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:47 2018
-[SUCCESS]./tmpImg/0.0.0.0011timg4_mainColor.jpg
-TIME:Fri Feb  9 21:31:47 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:47 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:47 2018
-[SUCCESS]./tmpImg/0.0.0.007timg4_mainColor.jpg
-TIME:Fri Feb  9 21:31:47 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:47 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:47 2018
-[SUCCESS]./tmpImg/0.0.0.0027timg4_mainColor.jpg
-TIME:Fri Feb  9 21:31:49 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:49 2018
+TIME:Sat Feb 10 18:57:33 2018
+[SUCCESS]./tmpImg/0.0.0.0018timg3_mainColor.jpg
+TIME:Sat Feb 10 18:57:33 2018
 [SUCCESS]./tmpImg/0.0.0.0014timg3_mainColor.jpg
-TIME:Fri Feb  9 21:31:49 2018
+TIME:Sat Feb 10 18:57:35 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:57:35 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:57:35 2018
+[SUCCESS]record[connfd].back().fileLen:85872
+TIME:Sat Feb 10 18:57:35 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:57:35 2018
+[SUCCESS]./tmpImg/0.0.0.0026timg3.jpg
+TIME:Sat Feb 10 18:57:35 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:57:35 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:57:35 2018
+[SUCCESS]record[connfd].back().fileLen:85872
+TIME:Sat Feb 10 18:57:35 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:57:35 2018
+[SUCCESS]./tmpImg/0.0.0.0035timg3.jpg
+TIME:Sat Feb 10 18:57:35 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:57:35 2018
+[SUCCESS]record[connfd].back().fileLen:85872
+TIME:Sat Feb 10 18:57:35 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:57:35 2018
+[SUCCESS]./tmpImg/0.0.0.0031timg3.jpg
+TIME:Sat Feb 10 18:57:35 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:57:35 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:57:35 2018
+[SUCCESS]record[connfd].back().fileLen:85872
+TIME:Sat Feb 10 18:57:35 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:57:35 2018
+[SUCCESS]./tmpImg/0.0.0.0039timg3.jpg
+TIME:Sat Feb 10 18:57:35 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:57:36 2018
 [SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:49 2018
-[SUCCESS]./tmpImg/0.0.0.0039timg4_mainColor.jpg
-TIME:Fri Feb  9 21:31:49 2018
+TIME:Sat Feb 10 18:57:36 2018
+[SUCCESS]./tmpImg/0.0.0.0026timg3_mainColor.jpg
+TIME:Sat Feb 10 18:57:36 2018
 [SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:49 2018
-[SUCCESS]./tmpImg/0.0.0.0019timg4_mainColor.jpg
-TIME:Fri Feb  9 21:31:50 2018
+TIME:Sat Feb 10 18:57:36 2018
+[SUCCESS]./tmpImg/0.0.0.006timg3_mainColor.jpg
+TIME:Sat Feb 10 18:57:36 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:57:36 2018
+[SUCCESS]./tmpImg/0.0.0.0035timg3_mainColor.jpg
+TIME:Sat Feb 10 18:57:36 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:57:36 2018
+[SUCCESS]./tmpImg/0.0.0.0031timg3_mainColor.jpg
+TIME:Sat Feb 10 18:57:42 2018
 [SUCCESS]success got image
-TIME:Fri Feb  9 21:31:50 2018
+TIME:Sat Feb 10 18:57:42 2018
 [SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]record[connfd].back().fileLen:173519
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]./tmpImg/0.0.0.0024timg5.jpg
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]record[connfd].back().fileLen:78148
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]./tmpImg/0.0.0.0013timg2.jpg
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]record[connfd].back().fileLen:173519
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]./tmpImg/0.0.0.0042timg5.jpg
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]record[connfd].back().fileLen:173519
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]./tmpImg/0.0.0.0020timg5.jpg
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]record[connfd].back().fileLen:78148
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]./tmpImg/0.0.0.0038timg2.jpg
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]record[connfd].back().fileLen:78148
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]./tmpImg/0.0.0.0033timg2.jpg
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]record[connfd].back().fileLen:173519
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]./tmpImg/0.0.0.008timg5.jpg
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]record[connfd].back().fileLen:78148
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]./tmpImg/0.0.0.0025timg2.jpg
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]record[connfd].back().fileLen:78148
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]./tmpImg/0.0.0.0044timg2.jpg
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]record[connfd].back().fileLen:78148
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]./tmpImg/0.0.0.0029timg2.jpg
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]record[connfd].back().fileLen:78148
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]./tmpImg/0.0.0.0041timg2.jpg
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:50 2018
+TIME:Sat Feb 10 18:57:42 2018
 [SUCCESS]record[connfd].back().fileLen:161799
-TIME:Fri Feb  9 21:31:50 2018
+TIME:Sat Feb 10 18:57:42 2018
 [SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:50 2018
+TIME:Sat Feb 10 18:57:42 2018
+[SUCCESS]./tmpImg/0.0.0.0043timg4.jpg
+TIME:Sat Feb 10 18:57:42 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:57:42 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:57:43 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Sat Feb 10 18:57:43 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:57:43 2018
+[SUCCESS]./tmpImg/0.0.0.0023timg4.jpg
+TIME:Sat Feb 10 18:57:43 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:57:43 2018
+[SUCCESS]./tmpImg/0.0.0.0043timg4_mainColor.jpg
+TIME:Sat Feb 10 18:57:44 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:57:44 2018
+[SUCCESS]./tmpImg/0.0.0.0039timg3_mainColor.jpg
+TIME:Sat Feb 10 18:57:48 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:57:48 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:57:48 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Sat Feb 10 18:57:48 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:57:48 2018
+[SUCCESS]./tmpImg/0.0.0.0032timg4.jpg
+TIME:Sat Feb 10 18:57:48 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:57:48 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:57:48 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Sat Feb 10 18:57:48 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:57:48 2018
 [SUCCESS]./tmpImg/0.0.0.0015timg4.jpg
-TIME:Fri Feb  9 21:31:50 2018
+TIME:Sat Feb 10 18:57:49 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:57:49 2018
+[SUCCESS]./tmpImg/0.0.0.0023timg4_mainColor.jpg
+TIME:Sat Feb 10 18:57:49 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:57:49 2018
+[SUCCESS]./tmpImg/0.0.0.0032timg4_mainColor.jpg
+TIME:Sat Feb 10 18:57:52 2018
 [SUCCESS]success got image
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]record[connfd].back().fileLen:78148
-TIME:Fri Feb  9 21:31:50 2018
+TIME:Sat Feb 10 18:57:52 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:57:52 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Sat Feb 10 18:57:52 2018
 [SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]./tmpImg/0.0.0.0021timg2.jpg
-TIME:Fri Feb  9 21:31:50 2018
+TIME:Sat Feb 10 18:57:52 2018
+[SUCCESS]./tmpImg/0.0.0.0019timg4.jpg
+TIME:Sat Feb 10 18:57:52 2018
 [SUCCESS]success got image
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]record[connfd].back().fileLen:78148
-TIME:Fri Feb  9 21:31:50 2018
+TIME:Sat Feb 10 18:57:52 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:57:52 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Sat Feb 10 18:57:52 2018
 [SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]./tmpImg/0.0.0.009timg2.jpg
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]./tmpImg/0.0.0.0032timg5_mainColor.jpg
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]./tmpImg/0.0.0.0035timg5_mainColor.jpg
-TIME:Fri Feb  9 21:31:50 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:51 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:51 2018
-[SUCCESS]./tmpImg/0.0.0.0012timg5_mainColor.jpg
-TIME:Fri Feb  9 21:31:51 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:51 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:51 2018
-[SUCCESS]./tmpImg/0.0.0.0043timg5_mainColor.jpg
-TIME:Fri Feb  9 21:31:51 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:51 2018
+TIME:Sat Feb 10 18:57:52 2018
+[SUCCESS]./tmpImg/0.0.0.0011timg4.jpg
+TIME:Sat Feb 10 18:57:52 2018
 [SUCCESS]success got image
-TIME:Fri Feb  9 21:31:51 2018
-[SUCCESS]record[connfd].back().fileLen:173519
-TIME:Fri Feb  9 21:31:51 2018
+TIME:Sat Feb 10 18:57:52 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:57:52 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Sat Feb 10 18:57:52 2018
 [SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:51 2018
-[SUCCESS]./tmpImg/0.0.0.0016timg5.jpg
-TIME:Fri Feb  9 21:31:52 2018
+TIME:Sat Feb 10 18:57:52 2018
+[SUCCESS]./tmpImg/0.0.0.0036timg4.jpg
+TIME:Sat Feb 10 18:57:53 2018
 [SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:52 2018
-[SUCCESS]./tmpImg/0.0.0.0013timg2_mainColor.jpg
-TIME:Fri Feb  9 21:31:52 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:52 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:52 2018
-[SUCCESS]./tmpImg/0.0.0.0038timg2_mainColor.jpg
-TIME:Fri Feb  9 21:31:52 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:52 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:52 2018
-[SUCCESS]record[connfd].back().fileLen:78148
-TIME:Fri Feb  9 21:31:52 2018
-[SUCCESS]record[connfd].back().k:2
-TIME:Fri Feb  9 21:31:52 2018
-[SUCCESS]./tmpImg/0.0.0.0017timg2.jpg
-TIME:Fri Feb  9 21:31:52 2018
-[SUCCESS]success got image
-TIME:Fri Feb  9 21:31:52 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:52 2018
-[SUCCESS]./tmpImg/0.0.0.0033timg2_mainColor.jpg
-TIME:Fri Feb  9 21:31:52 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:53 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:53 2018
-[SUCCESS]./tmpImg/0.0.0.0024timg5_mainColor.jpg
-TIME:Fri Feb  9 21:31:53 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:53 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:53 2018
-[SUCCESS]./tmpImg/0.0.0.0042timg5_mainColor.jpg
-TIME:Fri Feb  9 21:31:53 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:53 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:53 2018
-[SUCCESS]./tmpImg/0.0.0.0028timg5_mainColor.jpg
-TIME:Fri Feb  9 21:31:53 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:53 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:53 2018
-[SUCCESS]./tmpImg/0.0.0.0025timg2_mainColor.jpg
-TIME:Fri Feb  9 21:31:53 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:53 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:53 2018
-[SUCCESS]./tmpImg/0.0.0.0044timg2_mainColor.jpg
-TIME:Fri Feb  9 21:31:53 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:53 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:53 2018
-[SUCCESS]./tmpImg/0.0.0.0020timg5_mainColor.jpg
-TIME:Fri Feb  9 21:31:53 2018
-[SUCCESS]k_means start
-TIME:Fri Feb  9 21:31:53 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:53 2018
-[SUCCESS]./tmpImg/0.0.0.008timg5_mainColor.jpg
-TIME:Fri Feb  9 21:31:53 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:53 2018
-[SUCCESS]./tmpImg/0.0.0.0029timg2_mainColor.jpg
-TIME:Fri Feb  9 21:31:54 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:54 2018
-[SUCCESS]./tmpImg/0.0.0.0041timg2_mainColor.jpg
-TIME:Fri Feb  9 21:31:54 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:54 2018
-[SUCCESS]./tmpImg/0.0.0.0021timg2_mainColor.jpg
-TIME:Fri Feb  9 21:31:54 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:54 2018
-[SUCCESS]./tmpImg/0.0.0.009timg2_mainColor.jpg
-TIME:Fri Feb  9 21:31:54 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:54 2018
-[SUCCESS]./tmpImg/0.0.0.0017timg2_mainColor.jpg
-TIME:Fri Feb  9 21:31:54 2018
-[SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:54 2018
+TIME:Sat Feb 10 18:57:53 2018
 [SUCCESS]./tmpImg/0.0.0.0015timg4_mainColor.jpg
-TIME:Fri Feb  9 21:31:54 2018
+TIME:Sat Feb 10 18:57:53 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:57:53 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:57:53 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Sat Feb 10 18:57:53 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:57:53 2018
+[SUCCESS]./tmpImg/0.0.0.0028timg4.jpg
+TIME:Sat Feb 10 18:57:53 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:57:53 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:57:53 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Sat Feb 10 18:57:53 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:57:53 2018
+[SUCCESS]./tmpImg/0.0.0.007timg4.jpg
+TIME:Sat Feb 10 18:57:53 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:57:53 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:57:53 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 18:57:53 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:57:53 2018
+[SUCCESS]./tmpImg/0.0.0.0024timg5.jpg
+TIME:Sat Feb 10 18:57:53 2018
 [SUCCESS]k_means end
-TIME:Fri Feb  9 21:31:54 2018
+TIME:Sat Feb 10 18:57:53 2018
+[SUCCESS]./tmpImg/0.0.0.0011timg4_mainColor.jpg
+TIME:Sat Feb 10 18:57:53 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:57:53 2018
+[SUCCESS]./tmpImg/0.0.0.0019timg4_mainColor.jpg
+TIME:Sat Feb 10 18:57:54 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:57:54 2018
+[SUCCESS]./tmpImg/0.0.0.0036timg4_mainColor.jpg
+TIME:Sat Feb 10 18:57:54 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:57:54 2018
+[SUCCESS]./tmpImg/0.0.0.0028timg4_mainColor.jpg
+TIME:Sat Feb 10 18:57:54 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:57:54 2018
+[SUCCESS]./tmpImg/0.0.0.007timg4_mainColor.jpg
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]./tmpImg/0.0.0.0033timg5.jpg
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]./tmpImg/0.0.0.0012timg5.jpg
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]./tmpImg/0.0.0.0040timg4.jpg
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]./tmpImg/0.0.0.0044timg5.jpg
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]./tmpImg/0.0.0.0029timg5.jpg
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]./tmpImg/0.0.0.0025timg2.jpg
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]./tmpImg/0.0.0.0045timg2.jpg
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]./tmpImg/0.0.0.0034timg2.jpg
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]./tmpImg/0.0.0.0016timg5.jpg
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]./tmpImg/0.0.0.008timg5.jpg
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]./tmpImg/0.0.0.0030timg2.jpg
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:01 2018
+[SUCCESS]./tmpImg/0.0.0.0020timg5.jpg
+TIME:Sat Feb 10 18:58:03 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:03 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 18:58:03 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:03 2018
+[SUCCESS]./tmpImg/0.0.0.0037timg5.jpg
+TIME:Sat Feb 10 18:58:03 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:03 2018
+[SUCCESS]./tmpImg/0.0.0.0040timg4_mainColor.jpg
+TIME:Sat Feb 10 18:58:03 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:03 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:03 2018
+[SUCCESS]./tmpImg/0.0.0.0025timg2_mainColor.jpg
+TIME:Sat Feb 10 18:58:03 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:03 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:03 2018
+[SUCCESS]./tmpImg/0.0.0.0045timg2_mainColor.jpg
+TIME:Sat Feb 10 18:58:03 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:05 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:05 2018
+[SUCCESS]./tmpImg/0.0.0.0024timg5_mainColor.jpg
+TIME:Sat Feb 10 18:58:05 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:05 2018
+[SUCCESS]./tmpImg/0.0.0.0044timg5_mainColor.jpg
+TIME:Sat Feb 10 18:58:05 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:05 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:05 2018
+[SUCCESS]./tmpImg/0.0.0.0012timg5_mainColor.jpg
+TIME:Sat Feb 10 18:58:05 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:05 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:05 2018
+[SUCCESS]./tmpImg/0.0.0.0029timg5_mainColor.jpg
+TIME:Sat Feb 10 18:58:05 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:05 2018
+[SUCCESS]./tmpImg/0.0.0.0033timg5_mainColor.jpg
+TIME:Sat Feb 10 18:58:05 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:05 2018
+[SUCCESS]./tmpImg/0.0.0.0034timg2_mainColor.jpg
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]./tmpImg/0.0.0.0030timg2_mainColor.jpg
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:06 2018
 [SUCCESS]./tmpImg/0.0.0.0016timg5_mainColor.jpg
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]./tmpImg/0.0.0.008timg5_mainColor.jpg
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]./tmpImg/0.0.0.0013timg2.jpg
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]./tmpImg/0.0.0.0041timg5.jpg
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]./tmpImg/0.0.0.0020timg5_mainColor.jpg
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]./tmpImg/0.0.0.0013timg2_mainColor.jpg
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]./tmpImg/0.0.0.009timg2.jpg
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]./tmpImg/0.0.0.0017timg2.jpg
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]./tmpImg/0.0.0.0021timg2.jpg
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]./tmpImg/0.0.0.0038timg2.jpg
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:06 2018
+[SUCCESS]./tmpImg/0.0.0.0042timg2.jpg
+TIME:Sat Feb 10 18:58:07 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:07 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:07 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:07 2018
+[SUCCESS]./tmpImg/0.0.0.009timg2_mainColor.jpg
+TIME:Sat Feb 10 18:58:07 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:07 2018
+[SUCCESS]./tmpImg/0.0.0.0017timg2_mainColor.jpg
+TIME:Sat Feb 10 18:58:07 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:07 2018
+[SUCCESS]./tmpImg/0.0.0.0038timg2_mainColor.jpg
+TIME:Sat Feb 10 18:58:07 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:07 2018
+[SUCCESS]./tmpImg/0.0.0.0021timg2_mainColor.jpg
+TIME:Sat Feb 10 18:58:07 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:07 2018
+[SUCCESS]./tmpImg/0.0.0.0037timg5_mainColor.jpg
+TIME:Sat Feb 10 18:58:07 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:07 2018
+[SUCCESS]./tmpImg/0.0.0.0041timg5_mainColor.jpg
+TIME:Sat Feb 10 18:58:07 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:07 2018
+[SUCCESS]./tmpImg/0.0.0.0042timg2_mainColor.jpg
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:255.127.0.0:63199
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:56522
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:56778
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:57034
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:57034
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:57546
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:57802
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:58058
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:58058
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:58570
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:58826
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:58826
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:58826
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:59594
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:59850
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:60106
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:60106
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:60618
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:60874
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:61130
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:61130
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:61642
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:61898
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:62154
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:62154
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:62666
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:63178
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:62922
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]record[connfd].back().fileLen:85872
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]./tmpImg/0.0.0.0014timg3.jpg
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:62922
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:63946
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:63434
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:63690
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:63690
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:64714
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:64970
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:65226
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:65226
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:203
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:459
+TIME:Sat Feb 10 18:58:21 2018
+[SUCCESS]add a new client:139.199.230.43:715
+TIME:Sat Feb 10 18:58:26 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:26 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:26 2018
+[SUCCESS]record[connfd].back().fileLen:85872
+TIME:Sat Feb 10 18:58:26 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:26 2018
+[SUCCESS]./tmpImg/0.0.0.0010timg3.jpg
+TIME:Sat Feb 10 18:58:26 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:26 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:26 2018
+[SUCCESS]record[connfd].back().fileLen:85872
+TIME:Sat Feb 10 18:58:26 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:26 2018
+[SUCCESS]./tmpImg/0.0.0.0022timg3.jpg
+TIME:Sat Feb 10 18:58:26 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:26 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:26 2018
+[SUCCESS]record[connfd].back().fileLen:85872
+TIME:Sat Feb 10 18:58:26 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:26 2018
+[SUCCESS]./tmpImg/0.0.0.006timg3.jpg
+TIME:Sat Feb 10 18:58:27 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:27 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:27 2018
+[SUCCESS]record[connfd].back().fileLen:85872
+TIME:Sat Feb 10 18:58:27 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:27 2018
+[SUCCESS]./tmpImg/0.0.0.0030timg3.jpg
+TIME:Sat Feb 10 18:58:27 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:27 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:27 2018
+[SUCCESS]record[connfd].back().fileLen:85872
+TIME:Sat Feb 10 18:58:27 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:27 2018
+[SUCCESS]./tmpImg/0.0.0.0026timg3.jpg
+TIME:Sat Feb 10 18:58:29 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:29 2018
+[SUCCESS]./tmpImg/0.0.0.0022timg3_mainColor.jpg
+TIME:Sat Feb 10 18:58:29 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:29 2018
+[SUCCESS]./tmpImg/0.0.0.0010timg3_mainColor.jpg
+TIME:Sat Feb 10 18:58:29 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:29 2018
+[SUCCESS]./tmpImg/0.0.0.0014timg3_mainColor.jpg
+TIME:Sat Feb 10 18:58:30 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:30 2018
+[SUCCESS]./tmpImg/0.0.0.006timg3_mainColor.jpg
+TIME:Sat Feb 10 18:58:30 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:30 2018
+[SUCCESS]./tmpImg/0.0.0.0030timg3_mainColor.jpg
+TIME:Sat Feb 10 18:58:38 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:38 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:38 2018
+[SUCCESS]record[connfd].back().fileLen:85872
+TIME:Sat Feb 10 18:58:38 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:38 2018
+[SUCCESS]./tmpImg/0.0.0.0018timg3.jpg
+TIME:Sat Feb 10 18:58:38 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:38 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:38 2018
+[SUCCESS]record[connfd].back().fileLen:85872
+TIME:Sat Feb 10 18:58:38 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:38 2018
+[SUCCESS]./tmpImg/0.0.0.0037timg3.jpg
+TIME:Sat Feb 10 18:58:38 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:38 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:38 2018
+[SUCCESS]record[connfd].back().fileLen:85872
+TIME:Sat Feb 10 18:58:38 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:38 2018
+[SUCCESS]./tmpImg/0.0.0.0039timg3.jpg
+TIME:Sat Feb 10 18:58:38 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:38 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:38 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Sat Feb 10 18:58:38 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:38 2018
+[SUCCESS]./tmpImg/0.0.0.0015timg4.jpg
+TIME:Sat Feb 10 18:58:40 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:40 2018
+[SUCCESS]./tmpImg/0.0.0.0039timg3_mainColor.jpg
+TIME:Sat Feb 10 18:58:40 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:40 2018
+[SUCCESS]./tmpImg/0.0.0.0026timg3_mainColor.jpg
+TIME:Sat Feb 10 18:58:40 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:40 2018
+[SUCCESS]./tmpImg/0.0.0.0037timg3_mainColor.jpg
+TIME:Sat Feb 10 18:58:40 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:40 2018
+[SUCCESS]./tmpImg/0.0.0.0018timg3_mainColor.jpg
+TIME:Sat Feb 10 18:58:44 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:44 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:44 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Sat Feb 10 18:58:44 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:44 2018
+[SUCCESS]./tmpImg/0.0.0.0011timg4.jpg
+TIME:Sat Feb 10 18:58:44 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:44 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:44 2018
+[SUCCESS]record[connfd].back().fileLen:85872
+TIME:Sat Feb 10 18:58:44 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:44 2018
+[SUCCESS]./tmpImg/0.0.0.0043timg3.jpg
+TIME:Sat Feb 10 18:58:44 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:44 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:44 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Sat Feb 10 18:58:44 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:44 2018
+[SUCCESS]./tmpImg/0.0.0.007timg4.jpg
+TIME:Sat Feb 10 18:58:44 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:44 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:44 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Sat Feb 10 18:58:44 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:44 2018
+[SUCCESS]./tmpImg/0.0.0.0031timg4.jpg
+TIME:Sat Feb 10 18:58:46 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:46 2018
+[SUCCESS]./tmpImg/0.0.0.0011timg4_mainColor.jpg
+TIME:Sat Feb 10 18:58:46 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:46 2018
+[SUCCESS]./tmpImg/0.0.0.007timg4_mainColor.jpg
+TIME:Sat Feb 10 18:58:46 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:46 2018
+[SUCCESS]./tmpImg/0.0.0.0015timg4_mainColor.jpg
+TIME:Sat Feb 10 18:58:46 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:46 2018
+[SUCCESS]./tmpImg/0.0.0.0043timg3_mainColor.jpg
+TIME:Sat Feb 10 18:58:48 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:48 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:48 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Sat Feb 10 18:58:48 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:48 2018
+[SUCCESS]./tmpImg/0.0.0.0023timg4.jpg
+TIME:Sat Feb 10 18:58:48 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:48 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:48 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Sat Feb 10 18:58:48 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:48 2018
+[SUCCESS]./tmpImg/0.0.0.0044timg4.jpg
+TIME:Sat Feb 10 18:58:48 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:58:48 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:58:48 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Sat Feb 10 18:58:48 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:58:48 2018
+[SUCCESS]./tmpImg/0.0.0.0038timg4.jpg
+TIME:Sat Feb 10 18:58:49 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:49 2018
+[SUCCESS]./tmpImg/0.0.0.0031timg4_mainColor.jpg
+TIME:Sat Feb 10 18:58:49 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:49 2018
+[SUCCESS]./tmpImg/0.0.0.0044timg4_mainColor.jpg
+TIME:Sat Feb 10 18:58:49 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:58:49 2018
+[SUCCESS]./tmpImg/0.0.0.0023timg4_mainColor.jpg
+TIME:Sat Feb 10 18:59:00 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:59:00 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:59:01 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 18:59:01 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:59:01 2018
+[SUCCESS]./tmpImg/0.0.0.0045timg5.jpg
+TIME:Sat Feb 10 18:59:01 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:59:01 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:59:01 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Sat Feb 10 18:59:01 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:59:01 2018
+[SUCCESS]./tmpImg/0.0.0.0040timg4.jpg
+TIME:Sat Feb 10 18:59:01 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:59:01 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:59:01 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Sat Feb 10 18:59:01 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:59:01 2018
+[SUCCESS]./tmpImg/0.0.0.0019timg4.jpg
+TIME:Sat Feb 10 18:59:01 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:59:01 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:59:01 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 18:59:01 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:59:01 2018
+[SUCCESS]./tmpImg/0.0.0.0046timg2.jpg
+TIME:Sat Feb 10 18:59:01 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:59:01 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:59:01 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 18:59:01 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:59:01 2018
+[SUCCESS]./tmpImg/0.0.0.0024timg5.jpg
+TIME:Sat Feb 10 18:59:02 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:59:02 2018
+[SUCCESS]./tmpImg/0.0.0.0046timg2_mainColor.jpg
+TIME:Sat Feb 10 18:59:02 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:59:02 2018
+[SUCCESS]./tmpImg/0.0.0.0019timg4_mainColor.jpg
+TIME:Sat Feb 10 18:59:02 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:59:02 2018
+[SUCCESS]./tmpImg/0.0.0.0038timg4_mainColor.jpg
+TIME:Sat Feb 10 18:59:02 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:59:02 2018
+[SUCCESS]./tmpImg/0.0.0.0040timg4_mainColor.jpg
+TIME:Sat Feb 10 18:59:02 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:59:02 2018
+[SUCCESS]./tmpImg/0.0.0.0045timg5_mainColor.jpg
+TIME:Sat Feb 10 18:59:03 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:59:03 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:59:03 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 18:59:03 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:59:03 2018
+[SUCCESS]./tmpImg/0.0.0.0012timg5.jpg
+TIME:Sat Feb 10 18:59:03 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:59:03 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:59:03 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Sat Feb 10 18:59:03 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:59:03 2018
+[SUCCESS]./tmpImg/0.0.0.0027timg4.jpg
+TIME:Sat Feb 10 18:59:03 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:59:03 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:59:03 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 18:59:03 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:59:03 2018
+[SUCCESS]./tmpImg/0.0.0.0020timg5.jpg
+TIME:Sat Feb 10 18:59:03 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:59:03 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:59:04 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 18:59:04 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:59:04 2018
+[SUCCESS]./tmpImg/0.0.0.0016timg5.jpg
+TIME:Sat Feb 10 18:59:04 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:59:04 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:59:04 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 18:59:04 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:59:04 2018
+[SUCCESS]./tmpImg/0.0.0.008timg5.jpg
+TIME:Sat Feb 10 18:59:04 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:59:04 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:59:04 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 18:59:04 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:59:04 2018
+[SUCCESS]./tmpImg/0.0.0.0041timg5.jpg
+TIME:Sat Feb 10 18:59:04 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:59:04 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:59:04 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 18:59:04 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:59:04 2018
+[SUCCESS]./tmpImg/0.0.0.0033timg5.jpg
+TIME:Sat Feb 10 18:59:04 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:59:04 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:59:04 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 18:59:04 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:59:04 2018
+[SUCCESS]./tmpImg/0.0.0.0028timg5.jpg
+TIME:Sat Feb 10 18:59:05 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:59:05 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 18:59:05 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:59:05 2018
+[SUCCESS]./tmpImg/0.0.0.0013timg2.jpg
+TIME:Sat Feb 10 18:59:05 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:59:05 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 18:59:05 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:59:05 2018
+[SUCCESS]./tmpImg/0.0.0.0042timg2.jpg
+TIME:Sat Feb 10 18:59:05 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:59:05 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 18:59:05 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:59:05 2018
+[SUCCESS]./tmpImg/0.0.0.0017timg2.jpg
+TIME:Sat Feb 10 18:59:05 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:59:05 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 18:59:05 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:59:05 2018
+[SUCCESS]./tmpImg/0.0.0.0021timg2.jpg
+TIME:Sat Feb 10 18:59:05 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:59:05 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 18:59:05 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:59:05 2018
+[SUCCESS]./tmpImg/0.0.0.009timg2.jpg
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]./tmpImg/0.0.0.0032timg2.jpg
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]./tmpImg/0.0.0.0036timg5.jpg
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]./tmpImg/0.0.0.0035timg2.jpg
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]./tmpImg/0.0.0.0025timg2.jpg
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]./tmpImg/0.0.0.0029timg2.jpg
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]./tmpImg/0.0.0.0027timg4_mainColor.jpg
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]./tmpImg/0.0.0.0020timg5_mainColor.jpg
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]./tmpImg/0.0.0.0024timg5_mainColor.jpg
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]./tmpImg/0.0.0.0012timg5_mainColor.jpg
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]./tmpImg/0.0.0.0041timg5_mainColor.jpg
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]./tmpImg/0.0.0.0016timg5_mainColor.jpg
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]./tmpImg/0.0.0.0033timg5_mainColor.jpg
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]./tmpImg/0.0.0.008timg5_mainColor.jpg
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]./tmpImg/0.0.0.0028timg5_mainColor.jpg
+TIME:Sat Feb 10 18:59:06 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:59:07 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:59:07 2018
+[SUCCESS]./tmpImg/0.0.0.0017timg2_mainColor.jpg
+TIME:Sat Feb 10 18:59:07 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:59:07 2018
+[SUCCESS]./tmpImg/0.0.0.0042timg2_mainColor.jpg
+TIME:Sat Feb 10 18:59:07 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:59:07 2018
+[SUCCESS]./tmpImg/0.0.0.009timg2_mainColor.jpg
+TIME:Sat Feb 10 18:59:07 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:59:07 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:59:07 2018
+[SUCCESS]./tmpImg/0.0.0.0021timg2_mainColor.jpg
+TIME:Sat Feb 10 18:59:07 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:59:07 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:59:07 2018
+[SUCCESS]./tmpImg/0.0.0.0032timg2_mainColor.jpg
+TIME:Sat Feb 10 18:59:07 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:59:07 2018
+[SUCCESS]./tmpImg/0.0.0.0013timg2_mainColor.jpg
+TIME:Sat Feb 10 18:59:07 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:59:07 2018
+[SUCCESS]./tmpImg/0.0.0.0035timg2_mainColor.jpg
+TIME:Sat Feb 10 18:59:08 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:59:08 2018
+[SUCCESS]./tmpImg/0.0.0.0036timg5_mainColor.jpg
+TIME:Sat Feb 10 18:59:08 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:59:08 2018
+[SUCCESS]./tmpImg/0.0.0.0029timg2_mainColor.jpg
+TIME:Sat Feb 10 18:59:08 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:59:08 2018
+[SUCCESS]./tmpImg/0.0.0.0025timg2_mainColor.jpg
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:715
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:7883
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:8139
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:8395
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:8395
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:8907
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:9163
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:9419
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:9419
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:9931
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:10187
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:10443
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:10443
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:10443
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:11211
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:11467
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:11467
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:11979
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:12235
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:12235
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:12235
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:13003
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:13259
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:13515
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:13515
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:14283
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:14027
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:14539
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]record[connfd].back().fileLen:85872
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]./tmpImg/0.0.0.0014timg3.jpg
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:14539
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:15051
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:15307
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:15563
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:15563
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:15819
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:16331
+TIME:Sat Feb 10 18:59:32 2018
+[SUCCESS]add a new client:139.199.230.43:16587
+TIME:Sat Feb 10 18:59:33 2018
+[SUCCESS]add a new client:139.199.230.43:16587
+TIME:Sat Feb 10 18:59:33 2018
+[SUCCESS]add a new client:139.199.230.43:17099
+TIME:Sat Feb 10 18:59:33 2018
+[SUCCESS]add a new client:139.199.230.43:17355
+TIME:Sat Feb 10 18:59:33 2018
+[SUCCESS]add a new client:139.199.230.43:17611
+TIME:Sat Feb 10 18:59:35 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:59:35 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:59:35 2018
+[SUCCESS]record[connfd].back().fileLen:85872
+TIME:Sat Feb 10 18:59:35 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:59:35 2018
+[SUCCESS]./tmpImg/0.0.0.006timg3.jpg
+TIME:Sat Feb 10 18:59:35 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:59:35 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:59:35 2018
+[SUCCESS]record[connfd].back().fileLen:85872
+TIME:Sat Feb 10 18:59:35 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:59:35 2018
+[SUCCESS]./tmpImg/0.0.0.0010timg3.jpg
+TIME:Sat Feb 10 18:59:37 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:59:37 2018
+[SUCCESS]./tmpImg/0.0.0.006timg3_mainColor.jpg
+TIME:Sat Feb 10 18:59:37 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:59:37 2018
+[SUCCESS]./tmpImg/0.0.0.0014timg3_mainColor.jpg
+TIME:Sat Feb 10 18:59:43 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 18:59:43 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 18:59:43 2018
+[SUCCESS]record[connfd].back().fileLen:85872
+TIME:Sat Feb 10 18:59:43 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 18:59:43 2018
+[SUCCESS]./tmpImg/0.0.0.0018timg3.jpg
+TIME:Sat Feb 10 18:59:45 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 18:59:45 2018
+[SUCCESS]./tmpImg/0.0.0.0010timg3_mainColor.jpg
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().fileLen:85872
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]./tmpImg/0.0.0.0026timg3.jpg
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().fileLen:85872
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]./tmpImg/0.0.0.0030timg3.jpg
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().fileLen:85872
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]./tmpImg/0.0.0.0022timg3.jpg
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().fileLen:85872
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]./tmpImg/0.0.0.0035timg3.jpg
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().fileLen:85872
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]./tmpImg/0.0.0.0040timg3.jpg
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]./tmpImg/0.0.0.0015timg4.jpg
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]./tmpImg/0.0.0.007timg4.jpg
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().fileLen:85872
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]./tmpImg/0.0.0.0043timg3.jpg
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]./tmpImg/0.0.0.0044timg4.jpg
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]./tmpImg/0.0.0.0027timg4.jpg
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]./tmpImg/0.0.0.0019timg4.jpg
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]./tmpImg/0.0.0.0039timg4.jpg
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]./tmpImg/0.0.0.0011timg4.jpg
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]./tmpImg/0.0.0.0032timg4.jpg
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]./tmpImg/0.0.0.0023timg4.jpg
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]./tmpImg/0.0.0.0045timg5.jpg
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]./tmpImg/0.0.0.008timg5.jpg
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]./tmpImg/0.0.0.0020timg5.jpg
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]./tmpImg/0.0.0.0041timg5.jpg
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]./tmpImg/0.0.0.0046timg2.jpg
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]./tmpImg/0.0.0.0042timg2.jpg
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]./tmpImg/0.0.0.009timg2.jpg
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:05 2018
+[SUCCESS]./tmpImg/0.0.0.0028timg5.jpg
+TIME:Sat Feb 10 19:00:07 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:07 2018
+[SUCCESS]./tmpImg/0.0.0.007timg4_mainColor.jpg
+TIME:Sat Feb 10 19:00:07 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:07 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:07 2018
+[SUCCESS]./tmpImg/0.0.0.0015timg4_mainColor.jpg
+TIME:Sat Feb 10 19:00:07 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:09 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:09 2018
+[SUCCESS]./tmpImg/0.0.0.0044timg4_mainColor.jpg
+TIME:Sat Feb 10 19:00:09 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:10 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:10 2018
+[SUCCESS]./tmpImg/0.0.0.0018timg3_mainColor.jpg
+TIME:Sat Feb 10 19:00:10 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:10 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:10 2018
+[SUCCESS]./tmpImg/0.0.0.0040timg3_mainColor.jpg
+TIME:Sat Feb 10 19:00:10 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:10 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:10 2018
+[SUCCESS]./tmpImg/0.0.0.0030timg3_mainColor.jpg
+TIME:Sat Feb 10 19:00:10 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:10 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:10 2018
+[SUCCESS]./tmpImg/0.0.0.0026timg3_mainColor.jpg
+TIME:Sat Feb 10 19:00:10 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:10 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:10 2018
+[SUCCESS]./tmpImg/0.0.0.0022timg3_mainColor.jpg
+TIME:Sat Feb 10 19:00:10 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:11 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:11 2018
+[SUCCESS]./tmpImg/0.0.0.0035timg3_mainColor.jpg
+TIME:Sat Feb 10 19:00:11 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:11 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:11 2018
+[SUCCESS]./tmpImg/0.0.0.0043timg3_mainColor.jpg
+TIME:Sat Feb 10 19:00:11 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:12 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:12 2018
+[SUCCESS]./tmpImg/0.0.0.0027timg4_mainColor.jpg
+TIME:Sat Feb 10 19:00:12 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:14 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:14 2018
+[SUCCESS]./tmpImg/0.0.0.0045timg5_mainColor.jpg
+TIME:Sat Feb 10 19:00:14 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:14 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:14 2018
+[SUCCESS]./tmpImg/0.0.0.008timg5_mainColor.jpg
+TIME:Sat Feb 10 19:00:14 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:14 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:14 2018
+[SUCCESS]./tmpImg/0.0.0.0039timg4_mainColor.jpg
+TIME:Sat Feb 10 19:00:14 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:14 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:14 2018
+[SUCCESS]./tmpImg/0.0.0.0011timg4_mainColor.jpg
+TIME:Sat Feb 10 19:00:14 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:14 2018
+[SUCCESS]./tmpImg/0.0.0.0019timg4_mainColor.jpg
+TIME:Sat Feb 10 19:00:14 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:14 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:14 2018
+[SUCCESS]./tmpImg/0.0.0.0032timg4_mainColor.jpg
+TIME:Sat Feb 10 19:00:14 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:14 2018
+[SUCCESS]./tmpImg/0.0.0.0023timg4_mainColor.jpg
+TIME:Sat Feb 10 19:00:15 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:15 2018
+[SUCCESS]./tmpImg/0.0.0.0020timg5_mainColor.jpg
+TIME:Sat Feb 10 19:00:15 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:15 2018
+[SUCCESS]./tmpImg/0.0.0.0046timg2_mainColor.jpg
+TIME:Sat Feb 10 19:00:15 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:15 2018
+[SUCCESS]./tmpImg/0.0.0.0042timg2_mainColor.jpg
+TIME:Sat Feb 10 19:00:15 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:15 2018
+[SUCCESS]./tmpImg/0.0.0.0041timg5_mainColor.jpg
+TIME:Sat Feb 10 19:00:15 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:15 2018
+[SUCCESS]./tmpImg/0.0.0.009timg2_mainColor.jpg
+TIME:Sat Feb 10 19:00:19 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:19 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:19 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 19:00:19 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:19 2018
+[SUCCESS]./tmpImg/0.0.0.0016timg5.jpg
+TIME:Sat Feb 10 19:00:19 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:19 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:19 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 19:00:19 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:19 2018
+[SUCCESS]./tmpImg/0.0.0.0012timg5.jpg
+TIME:Sat Feb 10 19:00:19 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:19 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:19 2018
+[SUCCESS]record[connfd].back().fileLen:161799
+TIME:Sat Feb 10 19:00:19 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:19 2018
+[SUCCESS]./tmpImg/0.0.0.0036timg4.jpg
+TIME:Sat Feb 10 19:00:19 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:19 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:19 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 19:00:19 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:19 2018
+[SUCCESS]./tmpImg/0.0.0.0031timg5.jpg
+TIME:Sat Feb 10 19:00:19 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:19 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:19 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 19:00:19 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:19 2018
+[SUCCESS]./tmpImg/0.0.0.0024timg5.jpg
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]./tmpImg/0.0.0.0021timg2.jpg
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]./tmpImg/0.0.0.0013timg2.jpg
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]./tmpImg/0.0.0.0025timg2.jpg
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]./tmpImg/0.0.0.0033timg2.jpg
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]record[connfd].back().fileLen:173519
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]./tmpImg/0.0.0.0037timg5.jpg
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]./tmpImg/0.0.0.0038timg2.jpg
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]./tmpImg/0.0.0.0017timg2.jpg
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]record[connfd].back().fileLen:78148
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]record[connfd].back().k:2
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]./tmpImg/0.0.0.0029timg2.jpg
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]success got image
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]./tmpImg/0.0.0.0021timg2_mainColor.jpg
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]./tmpImg/0.0.0.0013timg2_mainColor.jpg
+TIME:Sat Feb 10 19:00:20 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:21 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:21 2018
+[SUCCESS]./tmpImg/0.0.0.0036timg4_mainColor.jpg
+TIME:Sat Feb 10 19:00:21 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:21 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:21 2018
+[SUCCESS]./tmpImg/0.0.0.0024timg5_mainColor.jpg
+TIME:Sat Feb 10 19:00:21 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:21 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:21 2018
+[SUCCESS]./tmpImg/0.0.0.0028timg5_mainColor.jpg
+TIME:Sat Feb 10 19:00:21 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:21 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:21 2018
+[SUCCESS]./tmpImg/0.0.0.0012timg5_mainColor.jpg
+TIME:Sat Feb 10 19:00:21 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:21 2018
+[SUCCESS]./tmpImg/0.0.0.0016timg5_mainColor.jpg
+TIME:Sat Feb 10 19:00:21 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:21 2018
+[SUCCESS]./tmpImg/0.0.0.0031timg5_mainColor.jpg
+TIME:Sat Feb 10 19:00:21 2018
+[SUCCESS]k_means start
+TIME:Sat Feb 10 19:00:21 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:21 2018
+[SUCCESS]./tmpImg/0.0.0.0025timg2_mainColor.jpg
+TIME:Sat Feb 10 19:00:21 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:21 2018
+[SUCCESS]./tmpImg/0.0.0.0033timg2_mainColor.jpg
+TIME:Sat Feb 10 19:00:22 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:22 2018
+[SUCCESS]./tmpImg/0.0.0.0037timg5_mainColor.jpg
+TIME:Sat Feb 10 19:00:22 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:22 2018
+[SUCCESS]./tmpImg/0.0.0.0038timg2_mainColor.jpg
+TIME:Sat Feb 10 19:00:22 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:22 2018
+[SUCCESS]./tmpImg/0.0.0.0017timg2_mainColor.jpg
+TIME:Sat Feb 10 19:00:22 2018
+[SUCCESS]k_means end
+TIME:Sat Feb 10 19:00:22 2018
+[SUCCESS]./tmpImg/0.0.0.0029timg2_mainColor.jpg

@@ -151,7 +151,7 @@ void server::handle_accept()    //处理accept新连接
         timer->connfd=connfd;
         time_t cur=time(NULL);
         timer->expire=cur+3*TIMESLOT;
-        timer->cb_func=(CBFunc)(&server::cb_func);
+        timer->cb_func=reinterpret_cast<CBFunc>(&server::cb_func);
         {
             Lock l(&(this->mapMutex));
             record[connfd]=d;
